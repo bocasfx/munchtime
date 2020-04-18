@@ -1,0 +1,19 @@
+{
+  "name": "recipe-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "markdown-include ./build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocasfx/recipe-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-include": "^0.4.3"
+  }
+}

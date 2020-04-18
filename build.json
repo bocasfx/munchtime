@@ -1,0 +1,4 @@
+{
+  "build": "build/recipes.md",
+  "files": ["src/index.md"]
+}
