@@ -1,3 +1,7 @@
 recipes.pdf
 node_modules
-build
+
+# ignore files in folder build
+build/*
+# but keep the folder
+!build/.gitkeep

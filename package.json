@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "markdown-include ./build.json"
+    "include": "markdown-include ./build.json",
+    "compile": "showdown makehtml -i ./build/recipes.md -o ./build/recipes.html",
+    "build": "npm run include && npm run compile"
   },
   "repository": {
     "type": "git",
@@ -14,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markdown-include": "^0.4.3"
+    "markdown-include": "^0.4.3",
+    "showdown": "^1.9.1"
   }
 }
