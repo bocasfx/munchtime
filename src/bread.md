@@ -114,3 +114,4 @@ Yield: 1 loaf.
 1. Bake at 500F for 30 minutes (covered)
 1. Uncover and bake for 10 more minutes.
 
+<div style="page-break-after: always; visibility: hidden"></div>
