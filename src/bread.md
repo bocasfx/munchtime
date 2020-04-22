@@ -91,3 +91,26 @@ Yield: 1 loaf.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## No-knead sourdough
+
+### Ingredients
+
+* 100 grams prepared starter
+* 200 grams all-purpose flour
+* 100 grams whole wheat flour
+* 6 grams salt
+* 230 grams water
+
+### Procedure
+
+1. Mix starter and water. Whisk to combine.
+1. Combine the dry ingredients in a separate bowl.
+1. Mix the dry ingredients with the starter and let rest for 30 mins.
+1. Fold back-to-front, left-to-right, right-to-left and front-to-back.
+1. Cover and let rest for two hours.
+1. Make a long cut with a serrated knife.
+1. Bake at 500F for 30 minutes (covered)
+1. Uncover and bake for 10 more minutes.
+

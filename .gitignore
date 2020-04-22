@@ -1,5 +1,6 @@
 recipes.pdf
 node_modules
+.DS_Store
 
 # ignore files in folder build
 build/*
