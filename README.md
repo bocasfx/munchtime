@@ -1,3 +1,3 @@
 # Recipe book
 
-Run `npm run build` to generate and html file with all the recipes.
+Run `npm run build` to generate an html file with all the recipes.
