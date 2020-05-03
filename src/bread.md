@@ -103,6 +103,12 @@ Yield: 1 loaf.
 * 6 grams salt
 * 230 grams water
 
+### Alternative
+
+125 grams all-purpose flour
+125 grams semolina flour
+50 grams rye flour
+
 ### Procedure
 
 1. Mix starter and water. Whisk to combine.
