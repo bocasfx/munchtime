@@ -151,3 +151,25 @@
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## Sesame sauce
+
+### Ingredients
+
+* 1/4 cup soy sauce
+* 1/3 cup water
+* 1 Tbsp toasted sesame oil
+* 3 tsp brown sugar
+* 1 Tbsp rice vinegar
+* 1 tsp grated fresh ginger
+* 2 cloves garlic, minced
+* 1 Tbsp sesame seeds
+* 1/2 Tbsp cornstarch
+
+### Preparation
+
+1. Dissolve the constarch in the water.
+1. Combine all the other ingredients, then add the water/cornstarch mixture.
+1. Bring to a simmer stirring constantly.
+
+<div style="page-break-after: always; visibility: hidden"></div>
