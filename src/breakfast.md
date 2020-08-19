@@ -88,3 +88,29 @@
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## Buttermilk Pancakes
+
+### Ingredients
+
+* 2 cups all-purpose flour
+* 2 tablespoons white sugar
+* 2 teaspoons baking powder
+* 1 teaspoon baking soda
+* 1/2 teaspoon salt
+* 2 cups buttermilk
+* 1/3 cup milk
+* 2 eggs
+* 3 tablespoons butter, melted
+
+### Preparation
+
+1. In a large bowl, combine flour, sugar, baking powder, baking soda, and salt. In a separate bowl, beat together buttermilk, milk, eggs and melted butter. Keep the two mixtures separate until you are ready to cook.
+
+1. Heat a lightly oiled griddle or frying pan over medium high heat. You can flick water across the surface and if it beads up and sizzles, it's ready!
+
+1. Pour the wet mixture into the dry mixture, using a wooden spoon or fork to blend. Stir until it's just blended together. Do not over stir! Pour or scoop the batter onto the griddle, using approximately 1/2 cup for each pancake. Brown on both sides and serve hot.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
