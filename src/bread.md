@@ -121,3 +121,33 @@ Yield: 1 loaf.
 1. Uncover and bake for 10 more minutes.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## Cemitas Poblanas (traditional recipe)
+
+### Ingredients bread
+
+* 1Kg All purpose flour
+* 700ml Water
+* 10gr Salt
+* 3gr Barley malt powder
+* 10 gr yeast
+
+### Ingredients "atole"
+
+* 250 ml Water
+* 10 gr Sugar
+* 8 gr corn starch
+
+### Procedure
+
+1. Combine the flour, salt, malt powder and yeast. Slowly add the water and knead the dough. This is a 70% hydration dough so it will be quite sticky.
+1. Continue kneading until the dough is a bit more manageable and let it rest until it doubles in size.
+1. Lightly flour your working surface so the dough doesn't stick and divide it into balls of about 80 to 100 grams.
+1. Take one dough ball and press it down using the outer edge of your hand moving it back and forth until it's shaped like a number 8 with the lower section slightly bigger than the upper one. Continue shaping the rest of the balls and let them rest.
+1. Take each of the 8-shaped balls and flatten them with the palm of your hand. Take the smaller part, give it a 180 degree twist and place it on top of the bigger section. Press it down with the palm of your hand. Continue shaping the rest of the balls and let them rest until they puff up.
+1. To make the corn starch wash (atole) combine water, sugar and cornstarch in a pot and bring to a boil. Let it cool down to room temperature.
+1. Once the cemitas have risen cover them lightly with the corn starch wash (atole) using a brush. Let them rest until the wash has dried. Repeat the process and add sesame seeds before the wash dries.
+1. Preheat your oven to 450f and put a tray with boiling water in it so it provides moisture while the cemitas are baking.
+1. Bake them for 30 to 40 minutes or until golden brown.
+
+<div style="page-break-after: always; visibility: hidden"></div>
