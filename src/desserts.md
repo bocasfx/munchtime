@@ -209,6 +209,47 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
+## Churros 2
+
+### Ingredients
+
+* 90g Unsalted butter
+* 20g Dark brown sugar
+* 1g Salt
+* 350g Water
+* 180g All-purpose flour
+* 150g Egg (3 eggs)
+* 3g Vanilla extract
+* Sugar + Cinnamon powder
+
+### Preparation
+
+1. Put the water, butter and salt in a pot and bring to a boil.
+
+1. Lower the heat. Add the flour and stir constantly with a wooden spatula until you get a smooth, consistent paste.
+
+1. Remove from heat and let the paste cool down. Keep stirring.
+
+1. Whisk the eggs and add them to the dough in small batches. Combine until thoroughly mixed.
+
+1. Heat the oil in a pot over high heat. Once the oil is hot reduce the heat to medium-low.
+
+1. Fill a pastry bag with the paste and form the churros, about 20 cm long, over the oil.
+
+1. Cook them for a couple of minutes and then turn them so they brown on all sides.
+
+1. Once the churros are cooked remove them from the oil and place them on a paper towel to absorb the excess oil.
+
+1. Put the sugar and cinnamon mix on a plate and cover the churros on all sides.
+
+1. Enjoy with a cup of hot chocolate or champurrado.
+
+### Notes
+
+They are very good but also too soft. Almost like a doughnut, probably because of the addition of eggs.
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
 ## Basque cheesecake
 
 ### Ingredients
