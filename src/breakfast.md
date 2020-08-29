@@ -39,14 +39,17 @@
 
 * 1 C Flour
 * 3/4 C Whole milk
-* 1/2 C Water
-* 2 Eggs
+* 3/4 C Water
+* 3 Eggs
 * 3 Tbsp Butter, melted
-* 1/4 tsp Salt
 
 ### Preparation
 
-1. Add all the ingredients in a bowl and mix using an immersion blender.
+1. Beat the eggs. Add the milk and water. Whisk to combine.
+
+1. Add the flour and whisk until the lumps are gone.
+
+1. Add the melted butter.
 
 1. On a heavy bottom pan over medium-low heat add a bit of butter and remove the excess with a napkin.
 
