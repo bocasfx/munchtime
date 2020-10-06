@@ -173,3 +173,18 @@
 1. Bring to a simmer stirring constantly.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## Thai Vinaigrette
+
+### Ingredients
+
+* 1 Large Lime, juiced
+* 2 Tbsp Rice vinegar
+* 1 Tbsp Honey
+* 1 Clove Garlic, minced
+* 1 Piece Ginger, minced
+* 1/4 Cup Cilantro, chopped
+* 1 tsp Toasted sesame seeds
+* 1 tsp Sesame oil
+
+<div style="page-break-after: always; visibility: hidden"></div>
