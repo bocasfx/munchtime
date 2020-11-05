@@ -86,3 +86,36 @@
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## Chipotles en Escabeche
+
+### Ingredients
+
+* 150 g ( 1 1/2 cups ) Chipotles o morita chiles
+* 1 head of garlic, peeled
+* 1 sliced onion
+* 1/2 C water
+* 1/2 C vinegar
+* Olive oil
+* piloncillo or brown sugar to taste
+* 5 peppercorns
+* 5 bay leaves
+* 1/4 tsp marjoram
+* 1/4 tsp oregano
+* 1/2 tsp salt
+* 1 cinnamon stick
+
+### Preparation
+
+1. Soak the chipotles in enough water the night before.
+
+1. In a large pot over medium-low heat add a couple of tablespoons of olive oil. Add the garlic, onion, and peppercorns and cook for a few minutes until the onions are slightly translucent but still firm.
+
+1. Add the water, vinegar, cinnamon stick, bay leaves, marjoram, oregano, salt and piloncillo. Stir until the piloncillo is dissolved.
+
+1. Add the chipotles and bring everything to a simmer. You can add more liquid if needed (50% water, 50% vinegar).
+
+1. Let it simmer for a minute or two and then turn off the heat.
+
+<div style="page-break-after: always; visibility: hidden"></div>
