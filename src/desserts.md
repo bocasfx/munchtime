@@ -280,3 +280,64 @@ Unsalted butter
 Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake sit for several hours at room temperature to remove chill before serving.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## Vanilla Cake
+
+### Ingredients
+
+* 2 sticks unsalted butter, room temperature, plus more for pan
+* 3¼ cups all-purpose flour, plus more for pan
+* 2 cups granulated sugar
+* 1 Tbsp. baking powder
+* 1 3/4 tsp. kosher salt, divided
+* 1/2 tsp. baking soda
+* 2 large eggs
+* 5 large egg yolks
+* 1 1/4 cups buttermilk, room temperature
+* 2 Tbsp. vegetable oil
+* 1 Tbsp. vanilla extract
+
+### Preparation
+
+1. Place a rack in center of oven; preheat to 325°. Smear room-temperature butter all over bottom and sides of a 13x9" baking dish (metal or glass is okay) with your fingertips. Sprinkle a light dusting of flour into pan, then shake pan to coat all over; tap out excess flour.
+
+1. Whisk 2 cups granulated sugar, 1 Tbsp. baking powder, 1 tsp. salt, ½ tsp. baking soda, and remaining 3¼ cups flour in a large bowl.
+
+1. Whisk 2 eggs, 5 egg yolks, 1¼ cups buttermilk, 2 Tbsp. oil, and 1 Tbsp. vanilla in a medium bowl until smooth.
+
+1. Cut 2 sticks butter into 1" pieces and add to bowl with dry ingredients. (Now's a good time to make sure your butter is really at room temp—as in, you should be able to make an impression in the butter with your finger. If it's too firm, you won't be able to properly incorporate it into the flour.) Using an electric mixer on low speed, slowly increasing speed to medium, beat until butter is worked into dry ingredients and mixture looks like coarse meal, 4–5 minutes. There shouldn't be any dry flour or visible chunks of butter at this point.
+
+1. Make a well in center of flour mixture and pour in half of buttermilk mixture. Starting on low speed and slowly increasing to medium, beat until all of flour mixture is hydrated.
+
+1. Add remaining buttermilk mixture and beat on low speed until liquid is incorporated. Increase speed to high and beat until mixture is satiny smooth, light, and thick, about 1 minute.
+
+1. Scrape batter into prepared pan and smooth into corners in an even layer.
+
+1. Bake cake until top is golden brown, firm to the touch, and a tester inserted into center comes out clean, 45–55 minutes. Transfer to a wire rack and let cool completely.
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## Chocolate Icing
+
+### Ingredients
+
+* 1 1/2 sticks unsalted butter, room temperature
+* 6 oz. cream cheese, room temperature
+* 2 cups powdered sugar
+* 1 tsp. vanilla extract
+* 1/4 cup unsweetened cocoa powder
+* Sprinkles (for serving; optional)
+
+### Preparation
+
+1. Using electric mixer on medium-high speed, beat 6 oz. cream cheese and remaining 1½ sticks butter in a medium bowl until light and fluffy, about 2 minutes.
+
+1. Add 2 cups powdered sugar, ¼ cup cocoa powder, and remaining ¾ tsp. salt and beat again, scraping down sides of bowl, until completely smooth.
+
+1. Add remaining 1 tsp. vanilla and continue to beat until fluffy and lightened in color, another minute.
+
+1. Smooth icing over top of cooled cake (it should not be at all warm to the touch, or else the icing will melt).
+
+<div style="page-break-after: always; visibility: hidden"></div>
