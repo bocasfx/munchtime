@@ -6,7 +6,8 @@
   "scripts": {
     "include": "markdown-include ./build.json",
     "compile": "showdown makehtml -i ./build/recipes.md -o ./build/recipes.html",
-    "build": "npm run include && npm run compile"
+    "build:markdown": "npm run include && npm run compile",
+    "build": "node ./scripts/build-html.js"
   },
   "repository": {
     "type": "git",
