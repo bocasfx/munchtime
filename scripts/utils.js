@@ -1,5 +1,5 @@
 const path = require("path");
-const { exec } = require("child_process");
+const { execSync } = require("child_process");
 var fs = require("fs");
 
 const applyTemplate = (source, dest, template) => {
@@ -17,14 +17,12 @@ const applyTemplate = (source, dest, template) => {
 
 const md2html = (section, template) => {
   console.log(`Converting section: ${section}`);
-  const child = exec(
+  execSync(
     `npx showdown makehtml -i ./src/markdown/${section}.md -o ./build/${section}.html`
   );
-  child.on('exit', function() {
-    const source = path.join(__dirname, `../build/${section}.html`);
-    const dest = path.join(__dirname, `../public/${section}.html`);
-    applyTemplate(source, dest, template);
-  })  
+  const source = path.join(__dirname, `../build/${section}.html`);
+  const dest = path.join(__dirname, `../public/${section}.html`);
+  applyTemplate(source, dest, template);
 };
 
 module.exports = {
