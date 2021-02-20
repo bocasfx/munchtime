@@ -17,8 +17,10 @@ const applyTemplate = (source, dest, template) => {
 
 const md2html = (section, template) => {
   console.log(`Converting section: ${section}`);
+  const inputPath = path.join(__dirname, `../src/markdown/${section}.md`);
+  const outputPath = path.join(__dirname, `../build/${section}.html`);
   execSync(
-    `npx showdown makehtml -i ./src/markdown/${section}.md -o ./build/${section}.html`
+    `npx showdown makehtml -i ${inputPath} -o ${outputPath}`
   );
   const source = path.join(__dirname, `../build/${section}.html`);
   const dest = path.join(__dirname, `../public/${section}.html`);
