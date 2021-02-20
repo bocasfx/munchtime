@@ -1,19 +1,27 @@
 html, body {
   font-family: 'Inconsolata', monospace;
   margin: 40px auto 0;
-  width: 800px;
-  text-align: center;
+  width: 600px;
   padding: 0;
   color: #333;
+  font-weight: 300;
+}
+
+body {
+  margin-bottom: 100px;
 }
 
 ul {
   padding: 0;
 }
 
-li {
+ul > li {
   list-style-type: none;
   margin-bottom: 8px;
+}
+
+ol > li {
+  margin-bottom: 12px;
 }
 
 a, a:visited {
@@ -22,6 +30,24 @@ a, a:visited {
 }
 
 a:hover {
-  color: rgb(255, 0, 106);
+  color: crimson;
   text-decoration: none;
+}
+
+h1, h2 {
+  font-weight: 300;
+}
+
+h2 {
+  margin-top: 70px;
+  color: crimson;
+}
+
+h3 {
+  font-weight: bold;
+  color: #666;
+}
+
+.munchtime {
+  color: crimson;
 }
