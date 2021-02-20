@@ -6,3 +6,8 @@ node_modules
 build/*
 # but keep the folder
 !build/.gitkeep
+
+# ignore files in folder public
+public/*
+# but keep the folder
+!public/.gitkeep
