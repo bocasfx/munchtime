@@ -1,20 +1,5 @@
-
-/* Older browsers */
-html { font-size: 30px; }
-
-/* Modern browsers only need this one */
-
-@media screen and (min-width: 25em){
-  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
-}
-
-/* Safari <8 and IE <11 */
-@media screen and (min-width: 25em){
-  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
-}
-@media screen and (min-width: 50em){
-
-  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
+html {
+  font-size: 1rem;
 }
 
 html, body {
@@ -72,4 +57,10 @@ h3 {
 
 .munchtime {
   color: crimson;
+}
+
+@media (max-device-width: 768px) {
+  html {
+    font-size: 2.5rem;
+  }
 }
