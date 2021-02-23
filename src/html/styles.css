@@ -45,6 +45,11 @@ h1, h2 {
   font-weight: 300;
 }
 
+h1 > a:visited,
+h1 > a:hover {
+  color: crimson;
+}
+
 h2 {
   margin-top: 70px;
   color: crimson;
