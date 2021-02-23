@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Chicken Noodle Soup
+## <a name="Chicken Noodle Soup"></a> Chicken Noodle Soup
 
 ### Ingredients
 
@@ -35,7 +35,7 @@ Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with 
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Pollo Feliz
+## <a name="Pollo Feliz"></a> Pollo Feliz
 
 ### Ingredients
 
@@ -70,7 +70,7 @@ Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Pollo en Salsa de Cacahuate
+## <a name="Pollo en Salsa de Cacahuate"></a> Pollo en Salsa de Cacahuate
 
 ### Ingredients
 
@@ -105,7 +105,7 @@ Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Mole Poblano
+## <a name="Mole Poblano"></a> Mole Poblano
 
 ### Ingredients
 

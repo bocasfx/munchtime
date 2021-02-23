@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Lentils and Rice
+## <a name="Lentils and Rice"></a> Lentils and Rice
 
 ### Ingredients
 
@@ -36,7 +36,7 @@ Salt
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Arroz Blanco con Plátanos Fritos
+## <a name="Arroz Blanco con Plátanos Fritos"></a> Arroz Blanco con Plátanos Fritos
 
 ### Ingredients
 
@@ -75,7 +75,7 @@ Salt
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Wheat Berries and Kale
+## <a name="Wheat Berries and Kale"></a> Wheat Berries and Kale
 
 ### Ingredients
 

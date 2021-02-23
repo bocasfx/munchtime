@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Chiles Jalapeños en Vinagre
+## <a name="Chiles Jalapeños en Vinagre"></a> Chiles Jalapeños en Vinagre
 
 ### Ingredients
 
@@ -38,7 +38,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Xec
+## <a name="Xec"></a> Xec
 
 ### Ingredients
 
@@ -66,7 +66,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Ensalada de Ejotes y Nopales
+## <a name="Ensalada de Ejotes y Nopales"></a> Ensalada de Ejotes y Nopales
 
 ### Ingredients
 
@@ -88,7 +88,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Chipotles en Escabeche
+## <a name="Chipotles en Escabeche"></a> Chipotles en Escabeche
 
 ### Ingredients
 

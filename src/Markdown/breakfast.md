@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Banana Pancakes
+## <a name="Banana Pancakes"></a> Banana Pancakes
 
 ### Ingredients
 
@@ -33,7 +33,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Crepes
+## <a name="Crepes"></a> Crepes
 
 ### Ingredients
 
@@ -63,7 +63,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Granola
+## <a name="Granola"></a> Granola
 
 ### Ingredients
 
@@ -93,7 +93,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Buttermilk Pancakes
+## <a name="Buttermilk Pancakes"></a> Buttermilk Pancakes
 
 ### Ingredients
 
@@ -119,7 +119,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Old fashioned pancakes
+## <a name="Old fashioned pancakes"></a> Old fashioned pancakes
 
 * 1 1/2 cups all-purpose flour
 * 3 1/2 teaspoons baking powder

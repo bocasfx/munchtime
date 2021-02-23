@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Cochinita Pibil
+## <a name="Cochinita Pibil"></a> Cochinita Pibil
 
 ### Ingredients
 
@@ -35,7 +35,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Carnitas
+## <a name="Carnitas"></a> Carnitas
 
 ### Ingredients
 
@@ -73,7 +73,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Chorizo
+## <a name="Chorizo"></a> Chorizo
 
 ### Ingredients
 
@@ -105,7 +105,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Carne Árabe
+## <a name="Carne Árabe"></a> Carne Árabe
 
 ### Ingredients
 
@@ -117,7 +117,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Pork and Prunes Stew
+## <a name="Pork and Prunes Stew"></a> Pork and Prunes Stew
 
 ### Ingredients
 

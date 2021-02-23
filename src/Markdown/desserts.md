@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## The Chocolate Cake
+## <a name="The Chocolate Cake"></a> The Chocolate Cake
 
 ### Ingredients
 
@@ -44,7 +44,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Flan de Café
+## <a name="Flan de Café"></a> Flan de Café
 
 ### Ingredients
 
@@ -79,7 +79,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Dulce de Pinole
+## <a name="Dulce de Pinole"></a> Dulce de Pinole
 
 ### Ingredients
 
@@ -113,7 +113,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Ate de Guayaba con Queso
+## <a name="Ate de Guayaba con Queso"></a> Ate de Guayaba con Queso
 
 ### Ingredients
 
@@ -146,7 +146,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Atropellado
+## <a name="Atropellado"></a> Atropellado
 
 ### Ingredients
 
@@ -175,7 +175,7 @@
 
 
 
-## Churros
+## <a name="Churros"></a> Churros
 
 ### Ingredients
 
@@ -209,7 +209,7 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Churros 2
+## <a name="Churros 2"></a> Churros 2
 
 ### Ingredients
 
@@ -250,7 +250,7 @@ They are very good but also too soft. Almost like a doughnut, probably because o
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Basque cheesecake
+## <a name="Basque cheesecake"></a> Basque cheesecake
 
 ### Ingredients
 
@@ -282,7 +282,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Vanilla Cake
+## <a name="Vanilla Cake"></a> Vanilla Cake
 
 ### Ingredients
 
@@ -319,7 +319,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Chocolate Icing
+## <a name="Chocolate Icing"></a> Chocolate Icing
 
 ### Ingredients
 
@@ -343,7 +343,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Sweet Tomatillo tart
+## <a name="Sweet Tomatillo tart"></a> Sweet Tomatillo tart
 
 ### Ingredients (dough)
 

@@ -3,7 +3,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## NYT No-knead bread
+## <a name="NYT No-knead bread"></a> NYT No-knead bread
 
 ### Ingredients
 
@@ -25,7 +25,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Pan de Muerto
+## <a name="Pan de Muerto"></a> Pan de Muerto
 
 ### Ingredients
 
@@ -59,7 +59,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Zucchini Bread
+## <a name="Zucchini Bread"></a> Zucchini Bread
 
 ### Ingredients
 
@@ -93,7 +93,7 @@ Yield: 1 loaf.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## No-knead sourdough
+## <a name="No-knead sourdough"></a> No-knead sourdough
 
 ### Ingredients
 
@@ -122,7 +122,7 @@ Yield: 1 loaf.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Cemitas Poblanas (traditional recipe)
+## <a name="Cemitas Poblanas (traditional recipe)"></a> Cemitas Poblanas (traditional recipe)
 
 ### Ingredients bread
 

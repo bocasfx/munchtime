@@ -3,9 +3,9 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Sopa de Camarón
+## <a name="Sopa de Camarón"></a> Sopa de Camarón
 
-## Ingredients
+## <a name="Ingredients"></a> Ingredients
 
 * 4 Roma tomatoes
 * 2 Garlic cloves
@@ -45,7 +45,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Sopa de Frijol
+## <a name="Sopa de Frijol"></a> Sopa de Frijol
 
 ### Ingredients
 
@@ -79,7 +79,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Crema de Chile Poblano
+## <a name="Crema de Chile Poblano"></a> Crema de Chile Poblano
 
 ### Ingredients
 

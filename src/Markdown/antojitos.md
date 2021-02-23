@@ -2,7 +2,7 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Tlacoyos de Plátano Macho
+## <a name="Tlacoyos de Plátano Macho"></a> Tlacoyos de Plátano Macho
 
 ### Ingredients
 * 2 Ripe plantains
@@ -27,7 +27,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Empanadas
+## <a name="Empanadas"></a> Empanadas
 
 ### Ingredients
 * 3 C Flour
@@ -60,7 +60,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Gorditas de Chorizo
+## <a name="Gorditas de Chorizo"></a> Gorditas de Chorizo
 
 ### Ingredients
 
@@ -97,7 +97,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Molletes
+## <a name="Molletes"></a> Molletes
 
 ### Ingredients
 
@@ -127,7 +127,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Enfrijoladas Oaxaqueñas
+## <a name="Enfrijoladas Oaxaqueñas"></a> Enfrijoladas Oaxaqueñas
 
 ### Ingredients
 
@@ -166,7 +166,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Enchiladas Verdes
+## <a name="Enchiladas Verdes"></a> Enchiladas Verdes
 
 ### Ingredients
 
@@ -192,7 +192,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Tortas de Sardina
+## <a name="Tortas de Sardina"></a> Tortas de Sardina
 
 ### Ingredients
 
@@ -223,7 +223,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## Tortillas de Maíz
+## <a name="Tortillas de Maíz"></a> Tortillas de Maíz
 
 ### Ingredients
 
@@ -254,7 +254,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Cemitas Poblanas
+## <a name="Cemitas Poblanas"></a> Cemitas Poblanas
 
 ### Ingredients
 
@@ -307,7 +307,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Hummus
+## <a name="Hummus"></a> Hummus
 
 ### Ingredients
 
@@ -331,7 +331,7 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## Israeli Hummus
+## <a name="Israeli Hummus"></a> Israeli Hummus
 
 ### Ingredients
 
