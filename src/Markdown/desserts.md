@@ -341,3 +341,41 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 1. Smooth icing over top of cooled cake (it should not be at all warm to the touch, or else the icing will melt).
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## Sweet Tomatillo tart
+
+### Ingredients (dough)
+
+* 250gr All purpose flour
+* 100gr Butter, cubed, cold
+* 2 Tbsp water
+* 1 Tbsp sugar
+* 1 pinch salt
+
+### Ingredients (filling)
+
+* 3 Cups (500gr) thinly sliced tomatillos
+* 1 1/2 Cups (300gr) sugar
+* 3 Tbsp Tapioca
+* 4 Tbsp (30gr) chopped pecans
+* 1/2 tsp orange zest
+* 1 pinch salt
+
+### Preparation (dough)
+
+1. Put the flour on a flat surface and make a well. Add the salt and butter.
+1. Incorporate the flour and the butter with your hands. Try to not over-work it so it doesn't warm up.
+1. Once the butter has been incorporated form a ball and refrigerate it for 30 minutes.
+1.  Take dough out of the fridge and let it sit on the counter for a few minutes to soften slightly for easy rolling. On a lightly floured surface, roll the dough out into an 11-inch circle, then place gently into a 9-inch tart pan. With a sharp knife, trim the edges of the pastry to fit the tart pan. Cover pan with plastic wrap and place in the freezer until firm, about 30 minutes. Frozen dough is less prone to shrinking while baking.
+
+### Preparation (filling)
+
+1. Preheat oven to 425F
+1. Hydrate the tapioca with boiling water. Let it rest for 10 minutes.
+1. Combine tapioca, tomatillos, sugar, pecans, orange zest and salt.
+1. Pour the filling over the dough and bake until the edges are golden brown (about 20 minutes).
+1. Serve at room temperature.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
