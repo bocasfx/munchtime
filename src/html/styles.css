@@ -1,14 +1,36 @@
+
+/* Older browsers */
+html { font-size: 30px; }
+
+/* Modern browsers only need this one */
+
+@media screen and (min-width: 25em){
+  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
+}
+
+/* Safari <8 and IE <11 */
+@media screen and (min-width: 25em){
+  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
+}
+@media screen and (min-width: 50em){
+
+  html { font-size: calc( 30px + (24 - 30) * (100vw - 400px) / (800 - 400) ); }
+}
+
 html, body {
   font-family: 'Inconsolata', monospace;
-  margin: 40px auto 0;
-  width: 600px;
   padding: 0;
   color: #333;
   font-weight: 300;
 }
 
 body {
-  margin-bottom: 100px;
+  margin: 100px 0;
+}
+
+.main {
+  margin: 0 auto;
+  width: 600px;
 }
 
 ul {
