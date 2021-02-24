@@ -71,6 +71,28 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
+## <a name="Salsa Macha 2"></a> Salsa Macha 2
+
+### Ingredientes
+
+* 2 Cabezas de ajo
+* 3 Tazas de chiles de árbol seco
+* 1/2 Taza de aceite de oliva
+* Sal
+
+### Procedimiento
+
+1. Pela dos cabezas de ajo y filetea todos los dientes en rebanadas delgadas. Lava y limpia dos o tres tazas de chiles de árbol secos y pártelos en trozos con las manos. Si quieres que no pique mucho quita un poco de las semillas.
+
+1. Pon media taza de aceite de oliva en un sartén a fuego medio y cuando esté caliente agrega los ajos. Baja un poco el fuego y fríe los ajos por un par de minutos sin dejar que se quemen.
+
+1. Agrega los chiles y fríelos por cinco minutos sin dejar de mover para que no se quemen. Sazona con media cucharadita de sal.
+
+1. Vacía todo en un recipiente de vidrio o metal y deja que se enfríe. Una vez que se haya enfriado pon todo en la licuadora y muélelo hasta que obtengas la consistencia deseada. Si es necesario agrega más aceite.
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
 ## <a name="Spaghetti Sauce"></a> Spaghetti Sauce
 
 ### Ingredients

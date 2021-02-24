@@ -148,3 +148,25 @@
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Pork Dumplings">Pork Dumplings
+
+### Ingredients
+
+* 500gr Ground pork or minced pork shoulder
+* 2 Garlic cloves, minced
+* 1 Ginger, minced
+* 1 Cup cabbage, chopped
+* 1 package Extra firm tofu
+* Soy sauce
+* Sesame oil
+* Salt
+
+### Ingredients (wrappers)
+
+* 2.5 Cups flour
+* 3/4 tsp Salt
+* 1 Cup Boiling water
+
+<div style="page-break-after: always; visibility: hidden"></div>
