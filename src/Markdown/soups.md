@@ -5,7 +5,7 @@
 
 ## <a name="Sopa de Camarón"></a> Sopa de Camarón
 
-## <a name="Ingredients"></a> Ingredients
+### Ingredients
 
 * 4 Roma tomatoes
 * 2 Garlic cloves

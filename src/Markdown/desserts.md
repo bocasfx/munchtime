@@ -343,7 +343,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Sweet Tomatillo tart"></a> Sweet Tomatillo tart
+## <a name="Sweet Tomatillo tart"></a> Sweet Tomatillo Tart
 
 ### Ingredients (dough)
 

@@ -24,13 +24,20 @@
 
 ### Preparation
 
-Put the chicken bones in a pot and cover it with water. Bring it to a boil and skim off the fat. Lower the heat.
-Add the onion, garlic, clove, star anise, cilantro and two teaspoons of salt. Simmer for one hour.
-In a separate pot add enough water and a couple of teaspoons of salt. Bring it to a boil and cook the noodles. Drain and rinse with cold water.
-Remove the chicken from the pot and reserve it. Strain the broth.
-Pick all the meat from the chicken bones and add it back to the simmering broth.
-Add the mushrooms, soy sauce and sesame oil. Continue simmering for fifteen more minutes.
-Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with hot broth and garnish with green onion and chilli pepper.
+1. Put the chicken bones in a pot and cover it with water. Bring it to a boil and skim off the fat. Lower the heat.
+
+1. Add the onion, garlic, clove, star anise, cilantro and two teaspoons of salt. Simmer for one hour.
+
+1. In a separate pot add enough water and a couple of teaspoons of salt. Bring it to a boil and cook the noodles. Drain and rinse with cold water.
+
+1. Remove the chicken from the pot and reserve it. Strain the broth.
+
+1. Pick all the meat from the chicken bones and add it back to the simmering broth.
+
+1. Add the mushrooms, soy sauce and sesame oil. Continue simmering for fifteen more minutes.
+
+1. Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with hot broth and garnish with green onion and chilli pepper.
+
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
