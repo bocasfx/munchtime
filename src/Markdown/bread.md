@@ -151,3 +151,22 @@ Yield: 1 loaf.
 1. Bake them for 30 to 40 minutes or until golden brown.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="Tortas de Agua"></a> Tortas de Agua
+
+### Ingredients
+
+* 500 grams White flour
+* 1.5 gr Malted barley
+* 5 gr Salt
+* 5 gr yeast
+* 325 to 350 ml Water
+
+### Procedure
+
+1. Preheat oven to 500F.
+1. Put a tray with water in the oven.
+1. Reduce heat to 350F.
+1. Spray with water.
+
+<div style="page-break-after: always; visibility: hidden"></div>
