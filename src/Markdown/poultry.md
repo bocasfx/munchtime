@@ -158,3 +158,33 @@ Note: This is a simplified version of Mole Poblano.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="Baked Chicken"></a> Baked Chicken
+
+### Ingredients
+
+* 1 chicken, cut into 6 parts (2 breasts, 2 thighs & legs, 2 wings), excluding the back.
+* Olive oil
+* Salt
+
+### Preparation
+
+1. Trim the chicken pieces of excess fat. Pat the chicken pieces dry with a paper towel. Sprinkle all sides with salt. Let the chicken pieces sit for 15 to 20 minutes to take the chill off.
+
+1. Preheat the oven to 400°F (205°C)
+
+1. Pat the chicken pieces dry with a paper towel. Rub olive oil over the chicken pieces and on the bottom of the roasting pan.
+
+1. Sprinkle the chicken pieces all over with black pepper and a little more salt.
+
+1. Arrange the chicken pieces in the pan so that all the pieces are skin-side up, and the largest pieces (the breasts) are in the center of the pan. Don't crowd the pan; allow room in between the pieces.
+
+
+1. Bake (uncovered) in the oven for 30 minutes at 400°F (205°C). This initial high heat will help brown the chicken. Then lower the heat to 350°F (175°C) and bake for an additional 10-30 minutes until the juices run clear (not pink) when poked with a sharp knife or the internal temperature of the chicken breasts is 165°F (74°C), and of the thighs is 170°F (77°C) when tested with a meat thermometer.
+
+1. If the chicken isn't browning well enough, place the chicken under the broiler for the last 5 minutes of cooking, until browned sufficiently.
+
+1. Remove from oven and transfer the chicken to a serving dish. Tent with aluminum foil and let rest for 5 to 10 minutes before serving.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
