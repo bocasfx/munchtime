@@ -287,7 +287,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 ### Ingredients
 
 * 2 sticks unsalted butter, room temperature, plus more for pan
-* 3¼ cups all-purpose flour, plus more for pan
+* 31/4 cups all-purpose flour, plus more for pan
 * 2 cups granulated sugar
 * 1 Tbsp. baking powder
 * 1 3/4 tsp. kosher salt, divided
@@ -302,9 +302,9 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 
 1. Place a rack in center of oven; preheat to 325°. Smear room-temperature butter all over bottom and sides of a 13x9" baking dish (metal or glass is okay) with your fingertips. Sprinkle a light dusting of flour into pan, then shake pan to coat all over; tap out excess flour.
 
-1. Whisk 2 cups granulated sugar, 1 Tbsp. baking powder, 1 tsp. salt, ½ tsp. baking soda, and remaining 3¼ cups flour in a large bowl.
+1. Whisk 2 cups granulated sugar, 1 Tbsp. baking powder, 1 tsp. salt, 1/2 tsp. baking soda, and remaining 31/4 cups flour in a large bowl.
 
-1. Whisk 2 eggs, 5 egg yolks, 1¼ cups buttermilk, 2 Tbsp. oil, and 1 Tbsp. vanilla in a medium bowl until smooth.
+1. Whisk 2 eggs, 5 egg yolks, 11/4 cups buttermilk, 2 Tbsp. oil, and 1 Tbsp. vanilla in a medium bowl until smooth.
 
 1. Cut 2 sticks butter into 1" pieces and add to bowl with dry ingredients. (Now's a good time to make sure your butter is really at room temp—as in, you should be able to make an impression in the butter with your finger. If it's too firm, you won't be able to properly incorporate it into the flour.) Using an electric mixer on low speed, slowly increasing speed to medium, beat until butter is worked into dry ingredients and mixture looks like coarse meal, 4–5 minutes. There shouldn't be any dry flour or visible chunks of butter at this point.
 
@@ -332,9 +332,9 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 
 ### Preparation
 
-1. Using electric mixer on medium-high speed, beat 6 oz. cream cheese and remaining 1½ sticks butter in a medium bowl until light and fluffy, about 2 minutes.
+1. Using electric mixer on medium-high speed, beat 6 oz. cream cheese and remaining 11/2 sticks butter in a medium bowl until light and fluffy, about 2 minutes.
 
-1. Add 2 cups powdered sugar, ¼ cup cocoa powder, and remaining ¾ tsp. salt and beat again, scraping down sides of bowl, until completely smooth.
+1. Add 2 cups powdered sugar, 1/4 cup cocoa powder, and remaining 3/4 tsp. salt and beat again, scraping down sides of bowl, until completely smooth.
 
 1. Add remaining 1 tsp. vanilla and continue to beat until fluffy and lightened in color, another minute.
 
@@ -414,5 +414,43 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 1. With a scraper mark out twelve lines where you will cut your sausage. Slide a piece of cotton underneath the dough, bring it up round the sides, cross the ends over and pull to “snip” the dough into rounds.
 
 1. Arrange your buns on the tray with a space in between each to give them room to rise up and touch one another.
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Chewy Chocolate Chip Cookies"></a> Chewy Chocolate Chip Cookies
+
+
+## Ingredients
+for 12 cookies
+
+* 1/2 cup granulated sugar (100 g)
+* 3/4 cup brown sugar (165 g), packed
+* 1 teaspoon salt
+* 1/2 cup unsalted butter (115 g), melted
+* 1 egg
+* 1 teaspoon vanilla extract
+* 1 1/4 cups all-purpose flour (155 g)
+* 1/2 teaspoon baking soda
+* 4 oz milk or semi-sweet chocolate chunks (110 g)
+* 4 oz dark chocolate chunk (110 g), or your preference
+
+### Preparation
+
+1. In a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps.
+
+1. Whisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture.
+
+1. Sift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies).
+
+1. Fold in the chocolate chunks, then chill the dough for at least 30 minutes. For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be.
+
+1. Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.
+
+1. Scoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm) of space from the edges of the pan so that the cookies can spread evenly.
+
+1. Bake for 12-15 minutes, or until the edges have started to barely brown.
+
+1. Cool completely before serving.
 
 <div style="page-break-after: always; visibility: hidden"></div>
