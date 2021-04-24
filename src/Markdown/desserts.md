@@ -377,5 +377,42 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 1. Pour the filling over the dough and bake until the edges are golden brown (about 20 minutes).
 1. Serve at room temperature.
 
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Cinnamon Buns"></a> Cinnamon Buns
+
+### Ingredients
+
+* 275g Strong White Bread Flour
+* 100g Malted Wheat Flour
+* 5g Salt
+* 50g Caster Sugar
+* 20g Fresh Yeast
+* 175g Room Temperature Milk
+* 1 Medium Egg
+* 35g Room Temperature Butter
+
+### Preparation
+
+1. Weigh your two flours, sugar and salt into a large mixing bowl, mix them together. Add the butter in pieces and the egg.
+
+1. Weigh milk into a jug and your yeast too. Mix to soften the yeast.
+
+1. Pour your liquid into the dry mixture and bring everything together into a dough.
+
+1. Knead your dough well for 8-10 minutes. Then, shape it into a ball, place it back into the bowl to rest with a cloth on top for 90 minutes.
+
+1. While you are waiting you can prepare your filling. First make sure the butter is spreadable, then in a small bowl mix together the cinnamon and sugar. Line your tray with parchment paper.
+
+1. When your dough has rested and risen, turn it out of the bowl and roll it out into a large landscape rectangle around about 45cm by 30cm. You may need a little flour to dust with so that it doesn’t stick.
+
+1. Now, spread all over with your butter, right to the edges, and sprinkle the sugar and cinnamon mixture all over stopping just 2cm shy of the top edge.
+
+1. Starting from the side closest to you roll up the dough into a sausage. When you get to the top edge, you can use that buttery edge to stick.
+
+1. With a scraper mark out twelve lines where you will cut your sausage. Slide a piece of cotton underneath the dough, bring it up round the sides, cross the ends over and pull to “snip” the dough into rounds.
+
+1. Arrange your buns on the tray with a space in between each to give them room to rise up and touch one another.
 
 <div style="page-break-after: always; visibility: hidden"></div>
