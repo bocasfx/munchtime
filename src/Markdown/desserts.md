@@ -420,7 +420,6 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 
 ## <a name="Chewy Chocolate Chip Cookies"></a> Chewy Chocolate Chip Cookies
 
-
 ## Ingredients
 for 12 cookies
 
