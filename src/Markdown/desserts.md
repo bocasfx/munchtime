@@ -453,3 +453,31 @@ for 12 cookies
 1. Cool completely before serving.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Makovnik"></a> Makovnik
+
+### Ingredients (dough)
+
+Dough:
+* 250 g wholemeal flour
+* 250 g of plain flour
+* 20 g fresh yeast (or 7-10 g dry)
+* 3 tbsp cane sugar
+* 1 tsp salt
+* 250 g of warm water
+* 50 g of sunflower oil
+* 1 yolk
+
+### Ingredients (filling)
+* 200-250 g poppy (dry)
+* 150-180g of cane sugar
+* raisins
+* 1-2 apples
+* 1 egg white
+* baby semolina
+* +1 yolk for rubbing poppies from above
+
+Bake for about 25-30 minutes at 180C / 350F
+
+<div style="page-break-after: always; visibility: hidden"></div>
