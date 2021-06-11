@@ -472,12 +472,26 @@ Dough:
 ### Ingredients (filling)
 * 200-250 g poppy (dry)
 * 150-180g of cane sugar
-* raisins
 * 1-2 apples
 * 1 egg white
 * baby semolina
 * +1 yolk for rubbing poppies from above
 
-Bake for about 25-30 minutes at 180C / 350F
+### Preparation
+
+1. Hydrate the poppy seeds in water.
+1. Sift flour. Add yolk, yeast, water, oil. Knead. Add more flour if needed.
+1. Put dough in bowl and let it rise.
+1. Drain poppy seeds. Add fresh water and simmer.
+1. Peel and shred the apples.
+1. Combine poppy seeds, apples and sugar. Use immersion blender to blend the seeds. Drain.
+1. Whip egg white until it forms peaks and add to poppy seeds.
+1. Divide dough in two parts.
+1. Extend the dough using a rolling pin. Add the poppy seed mixture leaving a 2cm margin on one side.
+1. Slowly roll the dough and tuck the edges.
+1. Let rise.
+1. Cover with egg yolk.
+1. Use a toothpick to make holes for the steam to escape.
+1. Bake for about 25-30 minutes at 180C / 350F
 
 <div style="page-break-after: always; visibility: hidden"></div>
