@@ -188,3 +188,36 @@ Note: This is a simplified version of Mole Poblano.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="Pollo Al Pastor"></a> Pollo Al Pastor
+
+### Ingredients
+
+* 16 Chicken thighs
+* 4 Guajillo chiles
+* 8 Garlic cloves
+* 1 Tbsp achiote (annatto) seeds
+* The juice of 2 oranges
+* The juice of 1 lime
+* 1/4 Cinnamon stick
+* 2 Whole allspice berries or 1/2 tsp ground allspice
+* 2 Cloves
+* 2 tsp Salt
+
+### Preparation
+
+1. Soak the achiote seeds in warm water for a couple of hours.
+
+1. In a pot simmer the guajillo chiles and the garlic cloves until soft.
+
+1. Blend together the guajillo chiles, garlic cloves, achiote seeds, allsipce, cloves, cinnamon, orange juice, lime juice and salt.
+
+1. Use this mixture to marinate the chicken thighs for 24 hours in the refrigerator.
+
+1. Take the chicken out of the refrigerator a couple of hours before cooking so it comes up to temperature.
+
+1. Grill the chicken thighs over charcoal. First sear them for a couple of minutes on each side over really hot coals. Then transfer them to the "cool" side of the grill, cover it, open the air vents half way and let them finish cooking for ~20 minutes or until fully cooked. 
+
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
