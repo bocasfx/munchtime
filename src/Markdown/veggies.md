@@ -118,4 +118,33 @@
 
 1. Let it simmer for a minute or two and then turn off the heat.
 
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Veggie Fritters"></a> Veggie Fritters
+
+### Ingredients
+
+* 1 cup flour
+* 1 egg
+* 1/2 cup milk
+* 1/2 tsp baking powder
+* 1/2 tsp salt
+* 1/2 tsp turmeric
+* 1 tsp smoked paprika
+* 1 beet, grated
+* 1/2 cauliflower, grated
+* Enough oil for frying
+
+### Preparation
+
+1. Whisk the egg and milk together. In a separate bowl mix the flour, baking powder, salt, turmeric and paprika.
+
+1. Combine the dry and wet ingredients. Make sure everything is well mixed and no lumps are formed.
+
+1. With a spatula incorporate the grated beet and grated cauliflower. Add salt to taste.
+
+1. Use a tablespoon to form the fritters and fry them in small batches in enough oil so they can float.
+
 <div style="page-break-after: always; visibility: hidden"></div>
