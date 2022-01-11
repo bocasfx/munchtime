@@ -170,3 +170,29 @@ Yield: 1 loaf.
 1. Spray with water.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Onion Hamburger Buns"></a> Onion Hamburger Buns
+
+### Ingredients
+
+* 1 C Warm water
+* 3 tsp Active dry yeast
+* 3 tbsp Onion infused oil (or substitute 1/4 C melted butter)
+* 3 tbsp Sugar
+* 1 Egg
+* 1 1⁄2 tsp Salt
+* 3 -3 1⁄2 C all-purpose flour
+* Egg wash
+
+### Procedure
+
+1. Heat oven to 425°F
+1. In a mixing bowl, stir yeast, oil, and sugar into warm water, and allow to stand for 5 minutes, or until mixture is foamy. If the yeast mixture doesn't look foamy after 10 minutes, the yeast is too old and the dough won't rise. Discard and replace with fresh yeast.
+1. Whisk in egg and salt.
+1. Stir in flour, starting with 3 cups, adding a little more if necessary to form a soft dough.
+1. Turn dough onto a floured surface and knead until smooth and elastic, about 5 to 7 minutes.
+1. When dough is elastic and no longer sticky, divide into 12 equal pieces and shape each into a slightly flattened ball.
+1. Place 3" apart on greased baking sheets, and allow to rise for 15 minutes, or until the buns have nearly doubled in size.
+1. Bake for 8 to 12 minutes or until golden brown.
+1. Remove buns from pan to wire rack. Brush with melted butter immediately after removing from oven. Allow to cool.
