@@ -197,7 +197,4 @@
 1. Remove the meat from the broth and pull it with your hands. Put it back in the broth.
 1. Serve in a bowl and add the desired toppings. Tostadas are served on the side.
 
-
-### Preparation
-
 <div style="page-break-after: always; visibility: hidden"></div>
