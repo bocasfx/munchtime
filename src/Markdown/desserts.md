@@ -521,3 +521,37 @@ Dough:
 1. In a large bowl, cream together the margarine and 1 cup sugar until light and fluffy. Beat in the egg, then stir in the water and molasses. Gradually stir the sifted ingredients into the molasses mixture. Shape dough into walnut sized balls, and roll them in the remaining 2 tablespoons of sugar. Place the cookies 2 inches apart onto an ungreased cookie sheet, and flatten slightly.
 
 1. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container.
+
+## <a name="Pastel Tres Leches"></a> Pastel Tres Leches
+
+### Ingredients (cake)
+
+* 6 Eggs (room temperature)
+* 1 tsp Vainilla
+* 200 gr Sugar
+* 200 gr Flour
+* 1 tsp Baking powder
+
+### Ingredients (leches)
+
+* 1 can Evaporated milk
+* 1 can Condensed milk
+* 2 cups Half & half
+
+### Ingredients (icing)
+
+* 1 sobre grenetina
+* 2 tazas crema para batir
+* 1/4 T azucar glass
+* Strawberries (a bunch)
+
+### Preparation
+
+1. Beat the eggs in a bowl until doubled in volume. Add the vanilla and keep beating.
+1. Slowly add the sugar and beat until they become clear and they hold small peaks.
+1. Combine the flour and the baking powder and add it in three batches sifting it and slowly mixing it with a spatula.
+1. Bake in a circular cake pan covered in parchment paper at 350F for 40 mins.
+1. Let cool, slice in half.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>

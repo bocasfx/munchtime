@@ -170,3 +170,34 @@
 * 1 Cup Boiling water
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="Pozole">Pozole
+
+### Ingredients
+
+* 1 kg Maíz cacahuacintle (Uncooked hominy) 
+* 3 kg Pork shoulder cut in large cubes
+* 4 L Water
+* 1 Garlic head
+* 2 Bay leaves
+
+### Toppings
+
+* Diced onion
+* Dried oregano
+* Chile piquín
+* Lime wedges
+* Shredded iceberg lettuce
+* Chicharrón
+* Tostadas
+
+### Preparation
+
+1. In a large pot bring the water to a boil. Add the garlic and the hominy. Let it simmer until the hominy bursts. DO NOT ADD SALT or it will prevent the hominy from bursting. When the hominy grains have burst then add the pork and salt. Simmer until the pork is done to your taste.
+1. Remove the meat from the broth and pull it with your hands. Put it back in the broth.
+1. Serve in a bowl and add the desired toppings. Tostadas are served on the side.
+
+
+### Preparation
+
+<div style="page-break-after: always; visibility: hidden"></div>
