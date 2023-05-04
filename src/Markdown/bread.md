@@ -212,6 +212,8 @@ Yield: 1 loaf.
 * 60 ml Olive oil
 * Nigella & sesame seeds
 
+### Procedure
+
 1. Preheat the oven to 180 C (355 F) on upper and lower heat without fan.
 1. Wash the lentils well and soak in water for at least 4 hours, preferably overnight, for them to expand and soften.
 1. Sieve the lentils and add in the food processor. Pulse until it becomes a puree.
