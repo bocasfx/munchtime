@@ -196,3 +196,30 @@ Yield: 1 loaf.
 1. Place 3" apart on greased baking sheets, and allow to rise for 15 minutes, or until the buns have nearly doubled in size.
 1. Bake for 8 to 12 minutes or until golden brown.
 1. Remove buns from pan to wire rack. Brush with melted butter immediately after removing from oven. Allow to cool.
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Red Lentil Bread"></a> Red Lentil Bread
+
+### Ingredients
+
+* 1 C Red lentils
+* 1/2 C Yogurt
+* 2 Eggs
+* 10 g Baking powder
+* 1 tsp Salt
+* 60 ml Olive oil
+* Nigella & sesame seeds
+
+1. Preheat the oven to 180 C (355 F) on upper and lower heat without fan.
+1. Wash the lentils well and soak in water for at least 4 hours, preferably overnight, for them to expand and soften.
+1. Sieve the lentils and add in the food processor. Pulse until it becomes a puree.
+1. Transfer some pureed lentil to a bowl then add the yoghurt, eggs, baking powder, salt, and olive oil into the processor. If your food processor is big enough to mix all ingredients there is no need to take out some of the lentil puree.
+1. Mix all ingredients (including the puree in the bowl) in the food processor and pulse until everything is smooth.
+1. Oil the tray with olive oil and pour the mixture into the tray.
+1. Sprinkle some nigella and sesame seeds.
+1. Place the tray into the oven and bake it for 35 minutes.
+1. Rest for about 30 minutes to cool and eat with loved ones.
+
+<div style="page-break-after: always; visibility: hidden"></div>
