@@ -208,8 +208,8 @@ Yield: 1 loaf.
 * 1/2 C Yogurt
 * 2 Eggs
 * 10 g Baking powder
-* 1 tsp Salt
-* 60 ml Olive oil
+* 1/2 tsp Salt
+* 2 Tbsp Olive oil
 * Nigella & sesame seeds
 
 ### Procedure
