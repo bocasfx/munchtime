@@ -225,3 +225,31 @@ Yield: 1 loaf.
 1. Rest for about 30 minutes to cool and eat with loved ones.
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="SourDoug"></a> SourDoug
+
+### Levain
+
+* 30g medium-protein bread flour
+* 30g whole wheat flour
+* 60g water
+* 30g ripe sourdough starter
+
+### Main Dough
+
+* 822g medium-protein bread flour
+* 64g whole wheat flour
+* 745g water
+* 17g salt
+* 151g ripe levain
+
+### Procedure
+
+1. *Levain (9:00 a.m.)*: In a small container, mix the levain ingredients and keep at 78°F (25°C) for 5 hours.
+1. *Autolyse (12:00 p.m)*: In a medium mixing bowl, add 822g medium-protein bread flour, 64g whole wheat flour, 650g water, and mix until no dry bits remain. Cover the bowl and let rest for 2 hours.
+1. *Mix (2:00 p.m.)*:To the mixing bowl holding your dough, add 95g water (holding back any as necessary if the dough is too wet), 17g sea salt, and the ripe levain (from step 1). Transfer your dough to a bulk fermentation container and cover.
+1. *Bulk Fermentation (2:15 p.m. to 6:15 p.m.)*: Give the dough 6 sets of stretch and folds. The first three sets are at 15-minute intervals, and the last three sets are at 30-minute intervals.
+1. *Divide and Preshape (6:15 p.m.)*: Lightly flour your work surface and scrape out your dough. Using your bench knife, divide the dough in half. Lightly shape each half into a round shape. Let the dough rest for 30 minutes, uncovered.
+1. *Shape (6:45 p.m.)*: Shape the dough into a round (boule) or oval (batard) and place it in proofing baskets. Cover the baskets with a reusable plastic bag.
+1. *Proof (7:25 p.m. to 9:00 a.m. the next day)*: Cover proofing baskets with reusable plastic and seal them shut. Then, place both baskets into the refrigerator and proof overnight.
+1. *Bake (Preheat oven at 8:00 a.m., bake at 9:00 a.m.)*: Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove your dough from the fridge, score it, and transfer it to the preheated combo cooker. Place the cooker in the oven, cover with the lid, and bake for 20 minutes. After this time, remove the lid (you can keep it in the oven or remove it) and continue to bake for 30 minutes longer. When done, the internal temperature should be around 208°F (97°C). Let the loaves cool for 2 hours on a wire rack before slicing.
