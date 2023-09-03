@@ -2,6 +2,29 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
+## <a name="SourDoug (Updated)"></a> SourDoug
+
+### Main Dough
+
+* 1kg Medium-protein bread flour
+* 78g Rye flour
+* 791g Water
+* 21g Salt
+* 150g Ripe starter
+
+### Procedure
+
+1. In a medium mixing bowl, add the bread flour, rye flour and salt. Mix well until combined. Make a well in the middle and add the water. Mix until no dry bits remain. Cover the bowl and let rest for 30 minutes.
+1. Divide the dough into two equal parts.
+1. Give the dough 6 sets of stretch and folds. The first three sets are at 15-minute intervals, and the last three sets are at 30-minute intervals.
+1. Lightly flour your work surface and scrape out your dough. Lightly shape each half into a round shape. Let the dough rest for 30 minutes, uncovered.
+1. Shape the dough into a round (boule) or oval (batard) and place it in proofing baskets. Cover the baskets with a reusable plastic bag.
+1. Cover proofing baskets with reusable plastic and seal them shut. Then, place both baskets into the refrigerator and proof overnight.
+1. Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove your dough from the fridge, score it, and transfer it to the preheated combo cooker. Place the cooker in the oven, cover with the lid, and bake for 23 minutes. After this time, remove the lid and continue to bake for 23 minutes longer. Let the loaves cool for 2 hours on a wire rack before slicing.
+
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
 
 ## <a name="NYT No-knead bread"></a> NYT No-knead bread
 
@@ -226,7 +249,7 @@ Yield: 1 loaf.
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="SourDoug"></a> SourDoug
+## <a name="SourDoug (Old recipe)"></a> SourDoug
 
 ### Levain
 
