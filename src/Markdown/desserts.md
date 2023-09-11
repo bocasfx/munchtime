@@ -1,9 +1,27 @@
 # Desserts
 
+<div><a href="#TheChocolateCake">The Chocolate Cake</a></div>
+<div><a href="#FlandeCafe">Flan de Café</a></div>
+<div><a href="#DulcedePinole">Dulce de Pinole</a></div>
+<div><a href="#AtedeGuayabaconQueso">Ate de Guayaba con Queso</a></div>
+<div><a href="#Atropellado">Atropellado</a></div>
+<div><a href="#Churros">Churros</a></div>
+<div><a href="#Churros2">Churros 2</a></div>
+<div><a href="#BasqueCheesecake">Basque Cheesecake</a></div>
+<div><a href="#VanillaCake">Vanilla Cake</a></div>
+<div><a href="#ChocolateIcing">Chocolate Icing</a></div>
+<div><a href="#SweetTomatilloTart">Sweet Tomatillo Tart</a></div>
+<div><a href="#CinnamonBuns">Cinnamon Buns</a></div>
+<div><a href="#ChewyChocolateChipCookies">Chewy Chocolate Chip Cookies</a></div>
+<div><a href="#Makovnik">Makovnik</a></div>
+<div><a href="#SoftGingerCookies">Soft Ginger Cookies</a></div>
+<div><a href="#PastelTresLeches">Pastel Tres Leches</a></div>
+<div><a href="#BlueberryMuffins">Blueberry Muffins</a></div>
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="The Chocolate Cake"></a> The Chocolate Cake
+## <a id="TheChocolateCake" name="The Chocolate Cake">The Chocolate Cake</a>
 
 ### Ingredients
 
@@ -44,7 +62,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Flan de Café"></a> Flan de Café
+## <a id="FlandeCafe" name="Flan de Café">Flan de Café</a>
 
 ### Ingredients
 
@@ -79,7 +97,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Dulce de Pinole"></a> Dulce de Pinole
+## <a id="DulcedePinole" name="Dulce de Pinole">Dulce de Pinole</a>
 
 ### Ingredients
 
@@ -113,7 +131,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Ate de Guayaba con Queso"></a> Ate de Guayaba con Queso
+## <a id="AtedeGuayabaconQueso" name="Ate de Guayaba con Queso">Ate de Guayaba con Queso</a>
 
 ### Ingredients
 
@@ -146,7 +164,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Atropellado"></a> Atropellado
+## <a id="Atropellado" name="Atropellado">Atropellado</a>
 
 ### Ingredients
 
@@ -175,7 +193,7 @@
 
 
 
-## <a name="Churros"></a> Churros
+## <a id="Churros" name="Churros">Churros</a>
 
 ### Ingredients
 
@@ -209,7 +227,7 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Churros 2"></a> Churros 2
+## <a id="Churros2" name="Churros 2">Churros 2</a>
 
 ### Ingredients
 
@@ -250,7 +268,7 @@ They are very good but also too soft. Almost like a doughnut, probably because o
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Basque cheesecake"></a> Basque cheesecake
+## <a id="BasqueCheesecake" name="Basque Cheesecake">Basque Cheesecake</a>
 
 ### Ingredients
 
@@ -282,7 +300,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Vanilla Cake"></a> Vanilla Cake
+## <a id="VanillaCake" name="Vanilla Cake">Vanilla Cake</a>
 
 ### Ingredients
 
@@ -319,7 +337,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chocolate Icing"></a> Chocolate Icing
+## <a id="ChocolateIcing" name="Chocolate Icing">Chocolate Icing</a>
 
 ### Ingredients
 
@@ -343,7 +361,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Sweet Tomatillo tart"></a> Sweet Tomatillo Tart
+## <a id="SweetTomatilloTart" name="Sweet Tomatillo Tart">Sweet Tomatillo Tart</a>
 
 ### Ingredients (dough)
 
@@ -380,7 +398,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Cinnamon Buns"></a> Cinnamon Buns
+## <a id="CinnamonBuns" name="Cinnamon Buns">Cinnamon Buns</a>
 
 ### Ingredients
 
@@ -418,7 +436,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chewy Chocolate Chip Cookies"></a> Chewy Chocolate Chip Cookies
+## <a id="ChewyChocolateChipCookies" name="Chewy Chocolate Chip Cookies">Chewy Chocolate Chip Cookies</a>
 
 ### Ingredients
 for 12 cookies
@@ -455,7 +473,7 @@ for 12 cookies
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Makovnik"></a> Makovnik
+## <a id="Makovnik" name="Makovnik">Makovnik</a>
 
 ### Ingredients (dough)
 
@@ -497,7 +515,7 @@ Dough:
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Soft Ginger Cookies"></a> Soft Ginger Cookies
+## <a id="SoftGingerCookies" name="Soft Ginger Cookies">Soft Ginger Cookies</a>
 
 ### Ingredients
 
@@ -522,7 +540,7 @@ Dough:
 
 1. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container.
 
-## <a name="Pastel Tres Leches"></a> Pastel Tres Leches
+## <a id="PastelTresLeches" name="Pastel Tres Leches">Pastel Tres Leches</a>
 
 ### Ingredients (cake)
 
@@ -553,5 +571,37 @@ Dough:
 1. Bake in a circular cake pan covered in parchment paper at 350F for 40 mins.
 1. Let cool, slice in half.
 
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a id="BlueberryMuffins" name="Blueberry Muffins">Blueberry Muffins</a>
+
+### Ingredients (muffins)
+
+* 1 1/2 cups all-purpose flour
+* 3/4 cup white sugar
+* 2 teaspoons baking powder
+* 1/2 teaspoon salt
+* 1/3 cup vegetable oil
+* 1 egg
+* 1/3 cup milk, or more as needed
+* 1 cup fresh blueberries
+
+### Ingredients (crumb)
+
+* 1/4 cup white sugar
+* 3 tbsp cup all-purpose flour
+* 3 tbsp cup butter, cubed
+* 1 tsp ground cinnamon
+
+### Preparation
+
+1. Preheat the oven to 400 degrees F (200 degrees C). Grease 8 muffin cups or line with paper liners.
+1. For the muffins: Whisk flour, sugar, baking powder, and salt together in a large bowl.
+1. Pour oil into a small liquid measuring cup. Add egg and enough milk to reach the 1-cup mark; stir until combined. Pour into flour mixture and mix just until batter is combined. Fold in blueberries; set batter aside.
+1. For the crumb topping: Combine sugar, flour, butter, and cinnamon in a small bowl. Mix with a fork until crumbly.
+1. Spoon batter into the prepared muffin cups, filling right to the top. Sprinkle with crumb topping.
+1. Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 25 minutes.
 
 <div style="page-break-after: always; visibility: hidden"></div>
