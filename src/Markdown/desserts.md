@@ -1,22 +1,22 @@
 # Desserts
 
-<div><a href="#TheChocolateCake">The Chocolate Cake</a></div>
-<div><a href="#FlandeCafe">Flan de Café</a></div>
-<div><a href="#DulcedePinole">Dulce de Pinole</a></div>
-<div><a href="#AtedeGuayabaconQueso">Ate de Guayaba con Queso</a></div>
-<div><a href="#Atropellado">Atropellado</a></div>
-<div><a href="#Churros">Churros</a></div>
-<div><a href="#Churros2">Churros 2</a></div>
-<div><a href="#BasqueCheesecake">Basque Cheesecake</a></div>
-<div><a href="#VanillaCake">Vanilla Cake</a></div>
-<div><a href="#ChocolateIcing">Chocolate Icing</a></div>
-<div><a href="#SweetTomatilloTart">Sweet Tomatillo Tart</a></div>
-<div><a href="#CinnamonBuns">Cinnamon Buns</a></div>
-<div><a href="#ChewyChocolateChipCookies">Chewy Chocolate Chip Cookies</a></div>
-<div><a href="#Makovnik">Makovnik</a></div>
-<div><a href="#SoftGingerCookies">Soft Ginger Cookies</a></div>
-<div><a href="#PastelTresLeches">Pastel Tres Leches</a></div>
-<div><a href="#BlueberryMuffins">Blueberry Muffins</a></div>
+### * [The Chocolate Cake](#TheChocolateCake)
+### * [Flan de Café](#FlandeCafe)
+### * [Dulce de Pinole](#DulcedePinole)
+### * [Ate de Guayaba con Queso](#AtedeGuayabaconQueso)
+### * [Atropellado](#Atropellado)
+### * [Churros](#Churros)
+### * [Churros 2](#Churros2)
+### * [Basque Cheesecake](#BasqueCheesecake)
+### * [Vanilla Cake](#VanillaCake)
+### * [Chocolate Icing](#ChocolateIcing)
+### * [Sweet Tomatillo Tart](#SweetTomatilloTart)
+### * [Cinnamon Buns](#CinnamonBuns)
+### * [Chewy Chocolate Chip Cookies](#ChewyChocolateChipCookies)
+### * [Makovnik](#Makovnik)
+### * [Soft Ginger Cookies](#SoftGingerCookies)
+### * [Pastel Tres Leches](#PastelTresLeches)
+### * [Blueberry Muffins](#BlueberryMuffins)
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
