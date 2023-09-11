@@ -21,7 +21,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="TheChocolateCake" name="The Chocolate Cake">The Chocolate Cake</a>
+## <a id="TheChocolateCake" name="The Chocolate Cake"></a> The Chocolate Cake
 
 ### Ingredients
 
@@ -62,7 +62,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="FlandeCafe" name="Flan de Café">Flan de Café</a>
+## <a id="FlandeCafe" name="Flan de Café"></a> Flan de Café
 
 ### Ingredients
 
@@ -97,7 +97,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="DulcedePinole" name="Dulce de Pinole">Dulce de Pinole</a>
+## <a id="DulcedePinole" name="Dulce de Pinole"></a> Dulce de Pinole
 
 ### Ingredients
 
@@ -131,7 +131,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="AtedeGuayabaconQueso" name="Ate de Guayaba con Queso">Ate de Guayaba con Queso</a>
+## <a id="AtedeGuayabaconQueso" name="Ate de Guayaba con Queso"></a> Ate de Guayaba con Queso
 
 ### Ingredients
 
@@ -164,7 +164,7 @@
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="Atropellado" name="Atropellado">Atropellado</a>
+## <a id="Atropellado" name="Atropellado"></a> Atropellado
 
 ### Ingredients
 
@@ -193,7 +193,7 @@
 
 
 
-## <a id="Churros" name="Churros">Churros</a>
+## <a id="Churros" name="Churros"></a> Churros
 
 ### Ingredients
 
@@ -227,7 +227,7 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a id="Churros2" name="Churros 2">Churros 2</a>
+## <a id="Churros2" name="Churros 2"></a> Churros 2
 
 ### Ingredients
 
@@ -268,7 +268,7 @@ They are very good but also too soft. Almost like a doughnut, probably because o
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a id="BasqueCheesecake" name="Basque Cheesecake">Basque Cheesecake</a>
+## <a id="BasqueCheesecake" name="Basque Cheesecake"></a> Basque Cheesecake
 
 ### Ingredients
 
@@ -300,7 +300,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="VanillaCake" name="Vanilla Cake">Vanilla Cake</a>
+## <a id="VanillaCake" name="Vanilla Cake"></a> Vanilla Cake
 
 ### Ingredients
 
@@ -337,7 +337,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="ChocolateIcing" name="Chocolate Icing">Chocolate Icing</a>
+## <a id="ChocolateIcing" name="Chocolate Icing"></a> Chocolate Icing
 
 ### Ingredients
 
@@ -361,7 +361,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="SweetTomatilloTart" name="Sweet Tomatillo Tart">Sweet Tomatillo Tart</a>
+## <a id="SweetTomatilloTart" name="Sweet Tomatillo Tart"></a> Sweet Tomatillo Tart
 
 ### Ingredients (dough)
 
@@ -398,7 +398,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="CinnamonBuns" name="Cinnamon Buns">Cinnamon Buns</a>
+## <a id="CinnamonBuns" name="Cinnamon Buns"></a> Cinnamon Buns
 
 ### Ingredients
 
@@ -436,7 +436,7 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="ChewyChocolateChipCookies" name="Chewy Chocolate Chip Cookies">Chewy Chocolate Chip Cookies</a>
+## <a id="ChewyChocolateChipCookies" name="Chewy Chocolate Chip Cookies"></a> Chewy Chocolate Chip Cookies
 
 ### Ingredients
 for 12 cookies
@@ -473,7 +473,7 @@ for 12 cookies
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="Makovnik" name="Makovnik">Makovnik</a>
+## <a id="Makovnik" name="Makovnik"></a> Makovnik
 
 ### Ingredients (dough)
 
@@ -515,7 +515,7 @@ Dough:
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="SoftGingerCookies" name="Soft Ginger Cookies">Soft Ginger Cookies</a>
+## <a id="SoftGingerCookies" name="Soft Ginger Cookies"></a> Soft Ginger Cookies
 
 ### Ingredients
 
@@ -540,7 +540,7 @@ Dough:
 
 1. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container.
 
-## <a id="PastelTresLeches" name="Pastel Tres Leches">Pastel Tres Leches</a>
+## <a id="PastelTresLeches" name="Pastel Tres Leches"></a> Pastel Tres Leches
 
 ### Ingredients (cake)
 
@@ -575,7 +575,7 @@ Dough:
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a id="BlueberryMuffins" name="Blueberry Muffins">Blueberry Muffins</a>
+## <a id="BlueberryMuffins" name="Blueberry Muffins"></a> Blueberry Muffins
 
 ### Ingredients (muffins)
 
