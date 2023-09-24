@@ -1,5 +1,19 @@
 # Antojitos
 
+### * [The Chocolate Cake](#TheChocolateCake)
+### * [Tlacoyos de Plátano Macho](#TlacoyosdePlatanoMacho)
+### * [Empanadas](#Empanadas)
+### * [Gorditas de Chorizo](#GorditasdeChorizo)
+### * [Molletes](#Molletes)
+### * [Enfrijoladas Oaxaqueñas](#EnfrijoladasOaxaqueñas)
+### * [Enchiladas Verdes](#EnchiladasVerdes)
+### * [Tortas de Sardina](#TortasdeSardina)
+### * [Tortillas de Maíz](#TortillasdeMaíz)
+### * [Cemitas Poblanas](#CemitasPoblanas)
+### * [Hummus](#Hummus)
+### * [Israeli Hummus](#IsraeliHummus)
+### * [Tamales](#Tamales)
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 ## <a name="Tlacoyos de Plátano Macho"></a> Tlacoyos de Plátano Macho
@@ -363,3 +377,11 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a name="Tamales"></a> Tamales
+
+### Ingredients
+* 350g nixtamalized corn flour
+* 500g chicken stock
+* 200g lard
