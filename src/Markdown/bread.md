@@ -2,7 +2,7 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="SourDoug (Updated)"></a> SourDoug
+## <a name="SourDoug"></a> SourDoug
 
 ### Main Dough
 
@@ -14,13 +14,18 @@
 
 ### Procedure
 
-1. In a medium mixing bowl, add the bread flour, rye flour and salt. Mix well until combined. Make a well in the middle and add the water. Mix until no dry bits remain. Cover the bowl and let rest for 30 minutes.
+1. In a mixing bowl add the water and the starter. Whisk to combine.
+1. In a separate bowl, add the bread flour, rye flour and salt. Mix until combined. 
+1. Combine the wet and dry ingredients. Knead the dough until no dry bits remain. Cover the bowl and let rest for 30 minutes.
 1. Divide the dough into two equal parts.
-1. Give the dough 6 sets of stretch and folds. The first three sets are at 15-minute intervals, and the last three sets are at 30-minute intervals.
-1. Lightly flour your work surface and scrape out your dough. Lightly shape each half into a round shape. Let the dough rest for 30 minutes, uncovered.
-1. Shape the dough into a round (boule) or oval (batard) and place it in proofing baskets. Cover the baskets with a reusable plastic bag.
-1. Cover proofing baskets with reusable plastic and seal them shut. Then, place both baskets into the refrigerator and proof overnight.
-1. Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove your dough from the fridge, score it, and transfer it to the preheated combo cooker. Place the cooker in the oven, cover with the lid, and bake for 23 minutes. After this time, remove the lid and continue to bake for 23 minutes longer. Let the loaves cool for 2 hours on a wire rack before slicing.
+1. Let the dough rest for several hours. It usually takes around 8 hours for it to fully develop at room temperature.
+1. Grease two 9×5-inch loaf pans. Dust them with flour.
+1. Lightly flour your work surface and scrape out the dough. Shape it into a batard (oval) and place it in the loaf pan.
+1. Let them rest for a couple more hours, uncovered.
+1. Put the loaf pans in reusable plastic bags and seal them shut, leaving some space at the top so the bag does not touch the dough. Then, place both pans in the refrigerator and proof overnight.
+1. Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove one loaf pan from the fridge, score the dough, and transfer it to the preheated combo cooker. Spray it with water until the entire surface of the dough is wet. Immediately put the lid on to prevent moisture from escaping. Place the cooker in the oven, and bake for 23 minutes. After this time, remove the lid and continue to bake for 23 minutes longer.
+1. Repeat the same procedure with the second loaf.
+1. Let the loaves cool for 2 hours on a wire rack before slicing.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
