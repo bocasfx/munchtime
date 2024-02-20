@@ -111,3 +111,33 @@ Serve with crumbled feta cheese on top.
 
 
 <div style="page-break-after: always; visibility: hidden"></div>
+
+## <a name="Arroz Rojo"></a> Arroz Rojo
+
+### Ingredients
+
+* 1 C Morelos rice
+* 3 Roma tomatos
+* 1 Clove of garlic
+* 1 Medium carrot
+* 1/2 C Peas
+* 1/8 Onion
+* 1 Tbsp Lard (substitute with oil)
+* Salt
+
+
+### Preparation
+
+1. Wash the rice several times until the water runs clean.
+
+1. Roast the tomatos, garlic and onion. Blend them until smooth. Run the sauce through a sieve and simmer it for a few minutes just to get rid of the raw taste.
+
+1. In a flat-bottom pan add the lard, the carrots and the rice. Pan-fry the rice over medium-low heat until it browns a bit.
+
+1. Add the sauce to the rice along with 1 3/4 cups of water. Bring it to a simmer and cover.
+
+1. Once the rice is done remove it from the heat and keep it covered for 10 minutes.
+
+1. Add the peas, fluff it with a fork, cover it and let it rest for 10 more minutes.
+
+<div style="page-break-after: always; visibility: hidden"></div>
