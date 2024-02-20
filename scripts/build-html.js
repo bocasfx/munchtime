@@ -7,6 +7,7 @@ const sections = [
   "beef",
   "bread",
   "breakfast",
+  "capc",
   "desserts",
   "grains",
   "pork",
