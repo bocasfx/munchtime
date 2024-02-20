@@ -11,3 +11,4 @@
 #include "src/veggies.md"
 #include "src/salsas.md"
 #include "src/soups.md"
+#include "src/capc.md"
