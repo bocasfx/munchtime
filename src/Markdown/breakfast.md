@@ -1,9 +1,19 @@
 # Breakfast
 
+-----
+
+* [Banana Pancakes](#BananaPancakes)
+* [Crepes](#Crepes)
+* [Granola](#Granola)
+* [Buttermilk Pancakes](#ButtermilkPancakes)
+* [Old fashioned pancakes](#OldFashionedPancakes)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Banana Pancakes"></a> Banana Pancakes
+## <a id="BananaPancakes" name="Banana Pancakes"></a> Banana Pancakes
 
 ### Ingredients
 
@@ -29,11 +39,12 @@
 
 1. Cook the pancakes in a cast iron skillet over medium-low heat greased with a little butter.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Crepes"></a> Crepes
+## <a id="Crepes" name="Crepes"></a> Crepes
 
 ### Ingredients
 
@@ -59,11 +70,12 @@
 
 1. Transfer to a basket and keep covered.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Granola"></a> Granola
+## <a id="Granola" name="Granola"></a> Granola
 
 ### Ingredients
 
@@ -89,11 +101,12 @@
 
 1. Let it cool down outside of the oven before removing it from the baking tray.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Buttermilk Pancakes"></a> Buttermilk Pancakes
+## <a id="ButtermilkPancakes" name="Buttermilk Pancakes"></a> Buttermilk Pancakes
 
 ### Ingredients
 
@@ -115,11 +128,12 @@
 
 1. Pour the wet mixture into the dry mixture, using a wooden spoon or fork to blend. Stir until it's just blended together. Do not over stir! Pour or scoop the batter onto the griddle, using approximately 1/2 cup for each pancake. Brown on both sides and serve hot.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Old fashioned pancakes"></a> Old fashioned pancakes
+## <a id="OldFashionedPancakes" name="Old-fashioned Pancakes"></a> Old-Fashioned Pancakes
 
 * 1 1/2 cups all-purpose flour
 * 3 1/2 teaspoons baking powder
@@ -134,6 +148,3 @@
 1. In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
 
 1. Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
-
-
-<div style="page-break-after: always; visibility: hidden"></div>

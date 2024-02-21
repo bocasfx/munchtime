@@ -1,24 +1,27 @@
 # Antojitos
 
-### * [The Chocolate Cake](#TheChocolateCake)
-### * [Tlacoyos de Plátano Macho](#TlacoyosdePlatanoMacho)
-### * [Empanadas](#Empanadas)
-### * [Gorditas de Chorizo](#GorditasdeChorizo)
-### * [Molletes](#Molletes)
-### * [Enfrijoladas Oaxaqueñas](#EnfrijoladasOaxaqueñas)
-### * [Enchiladas Verdes](#EnchiladasVerdes)
-### * [Tortas de Sardina](#TortasdeSardina)
-### * [Tortillas de Maíz](#TortillasdeMaíz)
-### * [Cemitas Poblanas](#CemitasPoblanas)
-### * [Hummus](#Hummus)
-### * [Israeli Hummus](#IsraeliHummus)
-### * [Tamales](#Tamales)
+-----
+
+* [Tlacoyos de Plátano Macho](#TlacoyosdePlatanoMacho)
+* [Empanadas](#Empanadas)
+* [Gorditas de Chorizo](#GorditasdeChorizo)
+* [Molletes](#Molletes)
+* [Enfrijoladas Oaxaqueñas](#EnfrijoladasOaxaquenas)
+* [Enchiladas Verdes](#EnchiladasVerdes)
+* [Tortas de Sardina](#TortasDeSardina)
+* [Tortillas de Maíz](#TortillasDeMaiz)
+* [Cemitas Poblanas](#CemitasPoblanas)
+* [Hummus](#Hummus)
+* [Israeli Hummus](#IsraeliHummus)
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Tlacoyos de Plátano Macho"></a> Tlacoyos de Plátano Macho
+## <a id="TlacoyosdePlatanoMacho" name="Tlacoyos de Plátano Macho"></a> Tlacoyos de Plátano Macho
 
 ### Ingredients
+
 * 2 Ripe plantains
 * 1/2 C Refried beans
 * ~2 C Nixtamalized corn flour
@@ -28,6 +31,7 @@
 * 1/2 C Whole wheat flour
 
 ### Preparation
+
 1. Cut the plantains in three large pieces. Do not peel them. Boil them with enough water until soft.
 
 1. Peel and mash the plantains. Add enough corn flour to make a soft dough. The final amount of flour varies depending on the size of the bananas and how ripe they are.
@@ -35,15 +39,18 @@
 1. Make balls of dough about the size of a golf ball. Press each ball with your thumb and add a tablespoon of refried beans. Very slowly seal them so the beans don't spill out.
 
 1. Flatten the balls into quarter inch oval patties and cook them on a pan over medium-low heat until cooked on both sides. When they are almost cooked add a teaspoon of lard to the pan turn them on both sides.
-Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
+1. Serve with cream fraiche, añejo cheese and salsa campechana on top.
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Empanadas"></a> Empanadas
+## <a id="Empanadas" name="Empanadas"></a> Empanadas
 
 ### Ingredients
+
 * 3 C Flour
 * 1 tsp Salt
 * 2 Eggs
@@ -70,11 +77,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. The filling could be almost anything: ground beef, chorizo, fish, veggies, etc. Yield: 16 empanadas.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Gorditas de Chorizo"></a> Gorditas de Chorizo
+## <a id="GorditasdeChorizo" name="Gorditas de Chorizo"></a> Gorditas de Chorizo
 
 ### Ingredients
 
@@ -107,11 +115,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. On each patty put a layer of mashed avocado, a layer of chorizo and top them with the tomatillo sauce. Garnish with chopped cilantro.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Molletes"></a> Molletes
+## <a id="Molletes" name="Molletes"></a> Molletes
 
 ### Ingredients
 
@@ -138,10 +147,11 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. Slice each bun in half. Spread some refried beans on top of the bread. Top with the jalapeños and shredded cheese. Broil for a few minutes until the bread is crispy and the cheese has melted and browned.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Enfrijoladas Oaxaqueñas"></a> Enfrijoladas Oaxaqueñas
+## <a id="EnfrijoladasOaxaquenas" name="Enfrijoladas Oaxaqueñas"></a> Enfrijoladas Oaxaqueñas
 
 ### Ingredients
 
@@ -176,11 +186,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. Add more bean sauce on top if desired. Garnish with crumbled cheese and sliced onion.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Enchiladas Verdes"></a> Enchiladas Verdes
+## <a id="EnchiladasVerdes" name="Enchiladas Verdes"></a> Enchiladas Verdes
 
 ### Ingredients
 
@@ -197,16 +208,21 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 ### Preparation
 
 1. Put the tomatillos, garlic and pepper in a pot over high heat, cover with water and bring up to a simmer. Continue simmering for three to five minutes.
+
 1. Transfer the tomatillos, garlic and pepper to a blender. Add the cilantro and blend. If the sauce is too thick add a splash of the simmering water.
+
 1. One by one, fry the tortillas in hot oil for 30 seconds on each side. Make sure they don't brown or become crispy.
+
 1. Fill tortillas with chicken and roll them up. Put them in a baking dish and cover them with the sauce.
+
 1. Add grated cheese on top and put them in the broiler for a few minutes until the cheese has melted and browned.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Tortas de Sardina"></a> Tortas de Sardina
+## <a id="TortasDeSardina" name="Tortas de Sardina"></a> Tortas de Sardina
 
 ### Ingredients
 
@@ -234,10 +250,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. Put some olive oil in a pan and heat the sandwiches until golden brown on both sides.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Tortillas de Maíz"></a> Tortillas de Maíz
+
+## <a id="TortillasDeMaiz" name="Tortillas de Maíz"></a> Tortillas de Maíz
 
 ### Ingredients
 
@@ -264,11 +282,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. Remove from the pan and put in a basket or between two kitchen towels. This will keep the tortillas warm while letting them breathe at the same time. Tortilla containers that are fully sealed are not good since they don't let any moisture out.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Cemitas Poblanas"></a> Cemitas Poblanas
+## <a id="CemitasPoblanas" name="Cemitas Poblanas"></a> Cemitas Poblanas
 
 ### Ingredients
 
@@ -317,11 +336,12 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 
 1. Pápalo is indispensable for cemitas. I'm not able to find it at my local grocery store or farmer's market so I had to grow my own. You can buy the seeds from Johnny's Seeds.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Hummus"></a> Hummus
+## <a id="Hummus" name="Hummus"></a> Hummus
 
 ### Ingredients
 
@@ -336,16 +356,21 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 ### Preparation
 
 1. Soak the chickpeas overnight.
+
 1. Drain the chickpeas and rinse them with water.
+
 1. Put the chickpeas in a pan over medium heat. Add the baking soda and one tablespoon of water. Stir frequently until the water has evaporated. Rinse the chickpeas thoroughly to remove all the baking soda.
+
 1. Put the chickpeas in a pot over high heat and cover with water. Add the salt. Once the water starts to boil remove all the scum. Lower the heat and simmer for 45 minutes to one hour or until the chickpeas are extremely soft.
+
 1. Drain the chickpeas and let them cool down but don't let them get too dry. Put the cooked chickpeas, tahini, garlic, lime juice and salt in a bowl and blend with an immersion blender. Add water as necessary to get the desired consistency. Add more salt if needed.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Israeli Hummus"></a> Israeli Hummus
+## <a id="IsraeliHummus" name="Israeli Hummus"></a> Israeli Hummus
 
 ### Ingredients
 
@@ -374,14 +399,3 @@ Serve with cream fraiche, añejo cheese and salsa campechana on top.
 1. Transfer hot chickpea mixture to a large bowl. Whisk in tahini sauce. Whisk in salt to taste. Transfer to a sealed container and allow to cool to room temperature. It should thicken up until it can hold its shape when spooned onto a plate.
 
 1. Serve hummus on a wide, shallow plate, drizzled with olive oil and sprinkled with za'atar, paprika, whole warm chickpeas, and/or chopped parsley. Leftover hummus can be stored in the refrigerator for up to 1 week. Allow to come to room temperature before serving.
-
-
-<div style="page-break-after: always; visibility: hidden"></div>
-
-
-## <a name="Tamales"></a> Tamales
-
-### Ingredients
-* 350g nixtamalized corn flour
-* 500g chicken stock
-* 200g lard

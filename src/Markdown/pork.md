@@ -1,9 +1,21 @@
 # Pork
 
+_____
+
+* [Cochinita Pibil](#CochinitaPibil)
+* [Carnitas](#Carnitas)
+* [Chorizo](#Chorizo)
+* [Carne Árabe](#CarneArabe)
+* [Pork and Prunes Stew](#PorkAndPrunesStew)
+* [Pork Dumplings](#PorkDumplings)
+* [Pozole](#Pozole)
+
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Cochinita Pibil"></a> Cochinita Pibil
+## <a id="CochinitaPibil" name="Cochinita Pibil"></a> Cochinita Pibil
 
 ### Ingredients
 
@@ -31,11 +43,12 @@
 
 1. Use a fork to pull apart the pork and mix with the sauce. Serve with warm tortillas and pickled habanero salsa.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Carnitas"></a> Carnitas
+## <a id="Carnitas" name="Carnitas"></a> Carnitas
 
 ### Ingredients
 
@@ -69,11 +82,12 @@
 
 1. Turn the oven off and leave it in the oven for one more hour.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chorizo"></a> Chorizo
+## <a id="Chorizo" name="Chorizo"></a> Chorizo
 
 ### Ingredients
 
@@ -101,11 +115,12 @@
 
 1. In a heavy pan over medium heat melt 1 Tbsp of lard. Add the chorizo and stir fry until cooked.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Carne Árabe"></a> Carne Árabe
+## <a id="CarneArabe" name="Carne Árabe"></a> Carne Árabe
 
 ### Ingredients
 
@@ -113,11 +128,12 @@
 
 1. Carne de cerdo cortada en bistec (lomo o pierna) Jugo de 10 limones o vinagre 3 cebollas fileteadas 1 manojo de perejil Laurel 25 g de tomillo Orégano Comino Ajo Sal al gusto 50 ml de aceite
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Pork and Prunes Stew"></a> Pork and Prunes Stew
+## <a id="PorkAndPrunesStew" name="Pork and Prunes Stew"></a> Pork and Prunes Stew
 
 ### Ingredients
 
@@ -146,11 +162,12 @@
 
 1. Drain the potatoes and add them to the stew. Let it simmer for a few more minutes.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Pork Dumplings"></a>Pork Dumplings
+## <a id="PorkDumplings" name="Pork Dumplings"></a>Pork Dumplings
 
 ### Ingredients
 
@@ -169,9 +186,11 @@
 * 3/4 tsp Salt
 * 1 Cup Boiling water
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Pozole"></a>Pozole
+## <a id="Pozole" name="Pozole"></a>Pozole
 
 ### Ingredients
 
@@ -196,5 +215,3 @@
 1. In a large pot bring the water to a boil. Add the garlic and the hominy. Let it simmer until the hominy bursts. DO NOT ADD SALT or it will prevent the hominy from bursting. When the hominy grains have burst then add the pork and salt. Simmer until the pork is done to your taste.
 1. Remove the meat from the broth and pull it with your hands. Put it back in the broth.
 1. Serve in a bowl and add the desired toppings. Tostadas are served on the side.
-
-<div style="page-break-after: always; visibility: hidden"></div>

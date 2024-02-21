@@ -1,9 +1,20 @@
 # Poultry
 
+-----
+
+* [Chicken Noodle Soup](#ChickenNoodleSoup)
+* [Pollo Feliz](#PolloFeliz)
+* [Pollo en Salsa de Cacahuate](#PolloEnSalsaDeCacahuate)
+* [Mole Poblano](#MolePoblano)
+* [Baked Chicken](#BakedChicken)
+* [Pollo Al Pastor](#PolloAlPastor)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chicken Noodle Soup"></a> Chicken Noodle Soup
+## <a id="ChickenNoodleSoup" name="Chicken Noodle Soup"></a> Chicken Noodle Soup
 
 ### Ingredients
 
@@ -38,11 +49,11 @@
 
 1. Put some noodles in a bowl. Top with a few broccoli florets. Fill the bowl with hot broth and garnish with green onion and chilli pepper.
 
-
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Pollo Feliz"></a> Pollo Feliz
+## <a id="PolloFeliz" name="Pollo Feliz"></a> Pollo Feliz
 
 ### Ingredients
 
@@ -73,11 +84,12 @@
 
 1. Serve with cilantro salsa and hot tortillas.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Pollo en Salsa de Cacahuate"></a> Pollo en Salsa de Cacahuate
+## <a id="PolloEnSalsaDeCacahuate" name="Pollo en Salsa de Cacahuate"></a> Pollo en Salsa de Cacahuate
 
 ### Ingredients
 
@@ -108,11 +120,12 @@
 
 1. Serve and garnish with toasted sesame seeds.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Mole Poblano"></a> Mole Poblano
+## <a id="MolePoblano" name="Mole Poblano"></a> Mole Poblano
 
 ### Ingredients
 
@@ -156,10 +169,11 @@ Note: This is a simplified version of Mole Poblano.
 
 1. Serve the sauce over the chicken. Sprinkle sesame seeds on top.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Baked Chicken"></a> Baked Chicken
+## <a id="BakedChicken" name="Baked Chicken"></a> Baked Chicken
 
 ### Ingredients
 
@@ -186,10 +200,11 @@ Note: This is a simplified version of Mole Poblano.
 
 1. Remove from oven and transfer the chicken to a serving dish. Tent with aluminum foil and let rest for 5 to 10 minutes before serving.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Pollo Al Pastor"></a> Pollo Al Pastor
+## <a id="PolloAlPastor" name="Pollo Al Pastor"></a> Pollo Al Pastor
 
 ### Ingredients
 
@@ -217,7 +232,3 @@ Note: This is a simplified version of Mole Poblano.
 1. Take the chicken out of the refrigerator a couple of hours before cooking so it comes up to temperature.
 
 1. Grill the chicken thighs over charcoal. First sear them for a couple of minutes on each side over really hot coals. Then transfer them to the "cool" side of the grill, cover it, open the air vents half way and let them finish cooking for ~20 minutes or until fully cooked. 
-
-
-
-<div style="page-break-after: always; visibility: hidden"></div>

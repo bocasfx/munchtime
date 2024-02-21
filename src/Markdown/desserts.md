@@ -1,22 +1,26 @@
 # Desserts
 
-### * [The Chocolate Cake](#TheChocolateCake)
-### * [Flan de Café](#FlandeCafe)
-### * [Dulce de Pinole](#DulcedePinole)
-### * [Ate de Guayaba con Queso](#AtedeGuayabaconQueso)
-### * [Atropellado](#Atropellado)
-### * [Churros](#Churros)
-### * [Churros 2](#Churros2)
-### * [Basque Cheesecake](#BasqueCheesecake)
-### * [Vanilla Cake](#VanillaCake)
-### * [Chocolate Icing](#ChocolateIcing)
-### * [Sweet Tomatillo Tart](#SweetTomatilloTart)
-### * [Cinnamon Buns](#CinnamonBuns)
-### * [Chewy Chocolate Chip Cookies](#ChewyChocolateChipCookies)
-### * [Makovnik](#Makovnik)
-### * [Soft Ginger Cookies](#SoftGingerCookies)
-### * [Pastel Tres Leches](#PastelTresLeches)
-### * [Blueberry Muffins](#BlueberryMuffins)
+-----
+
+* [The Chocolate Cake](#TheChocolateCake)
+* [Flan de Café](#FlandeCafe)
+* [Dulce de Pinole](#DulcedePinole)
+* [Ate de Guayaba con Queso](#AtedeGuayabaconQueso)
+* [Atropellado](#Atropellado)
+* [Churros](#Churros)
+* [Churros 2](#Churros2)
+* [Basque Cheesecake](#BasqueCheesecake)
+* [Vanilla Cake](#VanillaCake)
+* [Chocolate Icing](#ChocolateIcing)
+* [Sweet Tomatillo Tart](#SweetTomatilloTart)
+* [Cinnamon Buns](#CinnamonBuns)
+* [Chewy Chocolate Chip Cookies](#ChewyChocolateChipCookies)
+* [Makovnik](#Makovnik)
+* [Soft Ginger Cookies](#SoftGingerCookies)
+* [Pastel Tres Leches](#PastelTresLeches)
+* [Blueberry Muffins](#BlueberryMuffins)
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -58,6 +62,7 @@
 
 1. Make the frosting: Chop the chocolate and melt it in a double boiler. Let it cool so that you can comfortably put your finger in it. While it’s cooling, mix the butter with the whipped cream cheese. Add the chocolate, the vanilla and a dash of salt, and mix in the confectioners’ sugar until it looks like frosting, at least 5 minutes. Assemble the cake, spreading about a third of the frosting on one of the cooled layers, then putting the second layer on top and frosting the assembled cake.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -93,6 +98,7 @@
 
 1. Bake covered in a double boiler at 350 for 1hr.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -127,6 +133,7 @@
 
 1. Garnish with raisins and powdered cinnamon on top.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -160,6 +167,7 @@
 
 1. Serve alternating slices of ate and manchego cheese.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -188,9 +196,9 @@
 
 1. Serve in small cups, garnish with shredded coconut, and dust with the ground cinnamon.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
-
 
 
 ## <a id="Churros" name="Churros"></a> Churros
@@ -224,6 +232,7 @@
 
 1. Enjoy with a cup of hot chocolate or champurrado.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -266,6 +275,8 @@
 
 They are very good but also too soft. Almost like a doughnut, probably because of the addition of eggs.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 ## <a id="BasqueCheesecake" name="Basque Cheesecake"></a> Basque Cheesecake
@@ -296,6 +307,8 @@ Unsalted butter
 1. Let cool slightly (it will fall drastically as it cools), then unmold. Let cool completely. Carefully peel away parchment from sides of cheesecake. Slice into wedges and serve at room temperature, preferably with a glass of sherry alongside.
 
 Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake sit for several hours at room temperature to remove chill before serving.
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -334,6 +347,8 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 
 1. Bake cake until top is golden brown, firm to the touch, and a tester inserted into center comes out clean, 45–55 minutes. Transfer to a wire rack and let cool completely.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
@@ -357,6 +372,8 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 1. Add remaining 1 tsp. vanilla and continue to beat until fluffy and lightened in color, another minute.
 
 1. Smooth icing over top of cooled cake (it should not be at all warm to the touch, or else the icing will melt).
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -383,17 +400,26 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 ### Preparation (dough)
 
 1. Put the flour on a flat surface and make a well. Add the salt and butter.
+
 1. Incorporate the flour and the butter with your hands. Try to not over-work it so it doesn't warm up.
+
 1. Once the butter has been incorporated form a ball and refrigerate it for 30 minutes.
+
 1.  Take dough out of the fridge and let it sit on the counter for a few minutes to soften slightly for easy rolling. On a lightly floured surface, roll the dough out into an 11-inch circle, then place gently into a 9-inch tart pan. With a sharp knife, trim the edges of the pastry to fit the tart pan. Cover pan with plastic wrap and place in the freezer until firm, about 30 minutes. Frozen dough is less prone to shrinking while baking.
 
 ### Preparation (filling)
 
 1. Preheat oven to 425F
+
 1. Hydrate the tapioca with boiling water. Let it rest for 10 minutes.
+
 1. Combine tapioca, tomatillos, sugar, pecans, orange zest and salt.
+
 1. Pour the filling over the dough and bake until the edges are golden brown (about 20 minutes).
+
 1. Serve at room temperature.
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -433,6 +459,8 @@ Cheesecake can be made 1 day ahead. Cover and chill. Be sure to let cheesecake s
 
 1. Arrange your buns on the tray with a space in between each to give them room to rise up and touch one another.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
@@ -470,6 +498,8 @@ for 12 cookies
 
 1. Cool completely before serving.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
@@ -498,19 +528,34 @@ Dough:
 ### Preparation
 
 1. Hydrate the poppy seeds in water.
+
 1. Sift flour. Add yolk, yeast, water, oil. Knead. Add more flour if needed.
+
 1. Put dough in bowl and let it rise.
+
 1. Drain poppy seeds. Add fresh water and simmer.
+
 1. Peel and shred the apples.
+
 1. Combine poppy seeds, apples and sugar. Use immersion blender to blend the seeds. Drain.
+
 1. Whip egg white until it forms peaks and add to poppy seeds.
+
 1. Divide dough in two parts.
+
 1. Extend the dough using a rolling pin. Add the poppy seed mixture leaving a 2cm margin on one side.
+
 1. Slowly roll the dough and tuck the edges.
+
 1. Let rise.
+
 1. Cover with egg yolk.
+
 1. Use a toothpick to make holes for the steam to escape.
+
 1. Bake for about 25-30 minutes at 180C / 350F
+
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -540,6 +585,8 @@ Dough:
 
 1. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container.
 
+-----
+
 ## <a id="PastelTresLeches" name="Pastel Tres Leches"></a> Pastel Tres Leches
 
 ### Ingredients (cake)
@@ -566,11 +613,16 @@ Dough:
 ### Preparation
 
 1. Beat the eggs in a bowl until doubled in volume. Add the vanilla and keep beating.
+
 1. Slowly add the sugar and beat until they become clear and they hold small peaks.
+
 1. Combine the flour and the baking powder and add it in three batches sifting it and slowly mixing it with a spatula.
+
 1. Bake in a circular cake pan covered in parchment paper at 350F for 40 mins.
+
 1. Let cool, slice in half.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -598,10 +650,13 @@ Dough:
 ### Preparation
 
 1. Preheat the oven to 400 degrees F (200 degrees C). Grease 8 muffin cups or line with paper liners.
-1. For the muffins: Whisk flour, sugar, baking powder, and salt together in a large bowl.
-1. Pour oil into a small liquid measuring cup. Add egg and enough milk to reach the 1-cup mark; stir until combined. Pour into flour mixture and mix just until batter is combined. Fold in blueberries; set batter aside.
-1. For the crumb topping: Combine sugar, flour, butter, and cinnamon in a small bowl. Mix with a fork until crumbly.
-1. Spoon batter into the prepared muffin cups, filling right to the top. Sprinkle with crumb topping.
-1. Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 25 minutes.
 
-<div style="page-break-after: always; visibility: hidden"></div>
+1. For the muffins: Whisk flour, sugar, baking powder, and salt together in a large bowl.
+
+1. Pour oil into a small liquid measuring cup. Add egg and enough milk to reach the 1-cup mark; stir until combined. Pour into flour mixture and mix just until batter is combined. Fold in blueberries; set batter aside.
+
+1. For the crumb topping: Combine sugar, flour, butter, and cinnamon in a small bowl. Mix with a fork until crumbly.
+
+1. Spoon batter into the prepared muffin cups, filling right to the top. Sprinkle with crumb topping.
+
+1. Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean, 20 to 25 minutes.

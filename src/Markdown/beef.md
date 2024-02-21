@@ -1,9 +1,15 @@
 # Beef
 
+-----
+
+* [Lahmajun](#Lahmajun)
+* [Kibbeh](#Kibbeh)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-
-## <a name="Lahmajun"></a> Lahmajun
+## <a id="Lahmajun" name="Lahmajun"></a> Lahmajun
 
 ### Ingredients
 
@@ -41,11 +47,12 @@
 
 1. Serve with tahini sauce, tabbouleh and labneh.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Kibbeh"></a> Kibbeh
+## <a id="Kibbeh" name="Kibbeh"></a> Kibbeh
 
 ### Ingredients
 

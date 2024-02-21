@@ -1,8 +1,23 @@
 # Bread
 
+-----
+
+* [SourDoug](#SourDoug)
+* [NYT No-knead bread](#NYTNoKneadBread)
+* [Pan de Muerto](#PanDeMuerto)
+* [Zucchini Bread](#ZucchiniBread)
+* [No-knead sourdough](#NoKneadSourdough)
+* [Cemitas Poblanas (traditional recipe)](#CemitasPoblanasTraditionalRecipe)
+* [Tortas de Agua](#TortasDeAgua)
+* [Onion Hamburger Buns](#OnionHamburgerBuns)
+* [Red Lentil Bread](#RedLentilBread)
+* [SourDoug (Old recipe)](#SourDougOldRecipe)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="SourDoug"></a> SourDoug
+## <a id="SourDoug" name="SourDoug"></a> SourDoug
 
 ### Main Dough
 
@@ -15,23 +30,35 @@
 ### Procedure
 
 1. In a mixing bowl add the water and the starter. Whisk to combine.
+
 1. In a separate bowl, add the bread flour, rye flour and salt. Mix until combined. 
+
 1. Combine the wet and dry ingredients. Knead the dough until no dry bits remain. Cover the bowl and let rest for 30 minutes.
+
 1. Divide the dough into two equal parts.
+
 1. Let the dough rest for several hours. It usually takes around 8 hours for it to fully develop at room temperature.
+
 1. Grease two 9×5-inch loaf pans. Dust them with flour.
+
 1. Lightly flour your work surface and scrape out the dough. Shape it into a batard (oval) and place it in the loaf pan.
+
 1. Let them rest for a couple more hours, uncovered.
+
 1. Put the loaf pans in reusable plastic bags and seal them shut, leaving some space at the top so the bag does not touch the dough. Then, place both pans in the refrigerator and proof overnight.
+
 1. Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove one loaf pan from the fridge, score the dough, and transfer it to the preheated combo cooker. Spray it with water until the entire surface of the dough is wet. Immediately put the lid on to prevent moisture from escaping. Place the cooker in the oven, and bake for 23 minutes. After this time, remove the lid and continue to bake for 23 minutes longer.
+
 1. Repeat the same procedure with the second loaf.
+
 1. Let the loaves cool for 2 hours on a wire rack before slicing.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="NYT No-knead bread"></a> NYT No-knead bread
+## <a id="NYTNoKneadBread" name="NYT No-knead bread"></a> NYT No-knead bread
 
 ### Ingredients
 
@@ -50,10 +77,11 @@
 
 1. At least a half-hour before dough is ready, heat oven to 450 degrees. Put a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven as it heats. When dough is ready, carefully remove pot from oven. Slide your hand under towel and turn dough over into pot, seam side up; it may look like a mess, but that is O.K. Shake pan once or twice if dough is unevenly distributed; it will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-
-## <a name="Pan de Muerto"></a> Pan de Muerto
+## <a id="PanDeMuerto" name="Pan de Muerto"></a> Pan de Muerto
 
 ### Ingredients
 
@@ -83,11 +111,12 @@
 
 1. It is advisable to wait until the loaves stop fluffing before garnishing and baking them.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Zucchini Bread"></a> Zucchini Bread
+## <a id="ZucchiniBread" name="Zucchini Bread"></a> Zucchini Bread
 
 ### Ingredients
 
@@ -117,11 +146,12 @@
 
 Yield: 1 loaf.
 
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="No-knead sourdough"></a> No-knead sourdough
+## <a id="NoKneadSourdough" name="No-knead sourdough"></a> No-knead sourdough
 
 ### Ingredients
 
@@ -148,9 +178,11 @@ Yield: 1 loaf.
 1. Bake at 500F for 30 minutes (covered)
 1. Uncover and bake for 10 more minutes.
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Cemitas Poblanas (traditional recipe)"></a> Cemitas Poblanas (traditional recipe)
+## <a id="CemitasPoblanasTraditionalRecipe" name="Cemitas Poblanas (traditional recipe)"></a> Cemitas Poblanas (traditional recipe)
 
 ### Ingredients bread
 
@@ -178,9 +210,11 @@ Yield: 1 loaf.
 1. Preheat your oven to 450f and put a tray with boiling water in it so it provides moisture while the cemitas are baking.
 1. Bake them for 30 to 40 minutes or until golden brown.
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Tortas de Agua"></a> Tortas de Agua
+## <a id="TortasDeAgua" name="Tortas de Agua"></a> Tortas de Agua
 
 ### Ingredients
 
@@ -197,10 +231,12 @@ Yield: 1 loaf.
 1. Reduce heat to 350F.
 1. Spray with water.
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Onion Hamburger Buns"></a> Onion Hamburger Buns
+## <a id="OnionHamburgerBuns" name="Onion Hamburger Buns"></a> Onion Hamburger Buns
 
 ### Ingredients
 
@@ -225,10 +261,12 @@ Yield: 1 loaf.
 1. Bake for 8 to 12 minutes or until golden brown.
 1. Remove buns from pan to wire rack. Brush with melted butter immediately after removing from oven. Allow to cool.
 
+_____
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Red Lentil Bread"></a> Red Lentil Bread
+## <a id="RedLentilBread" name="Red Lentil Bread"></a> Red Lentil Bread
 
 ### Ingredients
 
@@ -243,18 +281,28 @@ Yield: 1 loaf.
 ### Procedure
 
 1. Preheat the oven to 180 C (355 F) on upper and lower heat without fan.
+
 1. Wash the lentils well and soak in water for at least 4 hours, preferably overnight, for them to expand and soften.
+
 1. Sieve the lentils and add in the food processor. Pulse until it becomes a puree.
+
 1. Transfer some pureed lentil to a bowl then add the yoghurt, eggs, baking powder, salt, and olive oil into the processor. If your food processor is big enough to mix all ingredients there is no need to take out some of the lentil puree.
+
 1. Mix all ingredients (including the puree in the bowl) in the food processor and pulse until everything is smooth.
+
 1. Oil the tray with olive oil and pour the mixture into the tray.
+
 1. Sprinkle some nigella and sesame seeds.
+
 1. Place the tray into the oven and bake it for 35 minutes.
+
 1. Rest for about 30 minutes to cool and eat with loved ones.
+
+_____
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="SourDoug (Old recipe)"></a> SourDoug
+## <a id="SourDougOldRecipe" name="SourDoug (Old recipe)"></a> SourDoug
 
 ### Levain
 
@@ -274,10 +322,17 @@ Yield: 1 loaf.
 ### Procedure
 
 1. **Levain (9:00 a.m.)**: In a small container, mix the levain ingredients and keep at 78°F (25°C) for 5 hours.
+
 1. **Autolyse (12:00 p.m)**: In a medium mixing bowl, add 822g medium-protein bread flour, 64g whole wheat flour, 650g water, and mix until no dry bits remain. Cover the bowl and let rest for 2 hours.
+
 1. **Mix (2:00 p.m.)**:To the mixing bowl holding your dough, add 17g sea salt, and the ripe levain (from step 1). Transfer your dough to a bulk fermentation container and cover.
+
 1. **Bulk Fermentation (2:15 p.m. to 6:15 p.m.)**: Give the dough 6 sets of stretch and folds. The first three sets are at 15-minute intervals, and the last three sets are at 30-minute intervals.
+
 1. **Divide and Preshape (6:15 p.m.)**: Lightly flour your work surface and scrape out your dough. Using your bench knife, divide the dough in half. Lightly shape each half into a round shape. Let the dough rest for 30 minutes, uncovered.
+
 1. **Shape (6:45 p.m.)**: Shape the dough into a round (boule) or oval (batard) and place it in proofing baskets. Cover the baskets with a reusable plastic bag.
+
 1. **Proof (7:25 p.m. to 9:00 a.m. the next day)**: Cover proofing baskets with reusable plastic and seal them shut. Then, place both baskets into the refrigerator and proof overnight.
+
 1. **Bake (Preheat oven at 8:00 a.m., bake at 9:00 a.m.)**: Preheat your oven with a combo cooker or Dutch oven inside to 450°F (230°C). Remove your dough from the fridge, score it, and transfer it to the preheated combo cooker. Place the cooker in the oven, cover with the lid, and bake for 20 minutes. After this time, remove the lid and continue to bake for 20 minutes longer. Let the loaves cool for 2 hours on a wire rack before slicing.

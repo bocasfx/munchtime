@@ -1,9 +1,18 @@
 # Grains
 
+-----
+
+* [Lentils and Rice](#LentilsAndRice)
+* [Arroz Blanco con Plátanos Fritos](#ArrozBlancoConPlatanosFritos)
+* [Wheat Berries and Kale](#WheatBerriesAndKale)
+* [Arroz Rojo](#ArrozRojo)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Lentils and Rice"></a> Lentils and Rice
+## <a id="LentilsAndRice" name="Lentils and Rice"></a> Lentils and Rice
 
 ### Ingredients
 
@@ -32,11 +41,12 @@ Salt
 
 1. Serve with labneh and pita bread.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Arroz Blanco con Plátanos Fritos"></a> Arroz Blanco con Plátanos Fritos
+## <a id="ArrozBlancoConPlatanosFritos" name="Arroz Blanco con Plátanos Fritos"></a> Arroz Blanco con Plátanos Fritos
 
 ### Ingredients
 
@@ -71,11 +81,12 @@ Salt
 
 1. Serve the plantains on top of the rice.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Wheat Berries and Kale"></a> Wheat Berries and Kale
+## <a id="WheatBerriesAndKale" name="Wheat Berries and Kale"></a> Wheat Berries and Kale
 
 ### Ingredients
 
@@ -109,10 +120,11 @@ Salt
 
 Serve with crumbled feta cheese on top.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Arroz Rojo"></a> Arroz Rojo
+## <a id="ArrozRojo" name="Arroz Rojo"></a> Arroz Rojo
 
 ### Ingredients
 
@@ -139,5 +151,3 @@ Serve with crumbled feta cheese on top.
 1. Once the rice is done remove it from the heat and keep it covered for 10 minutes.
 
 1. Add the peas, fluff it with a fork, cover it and let it rest for 10 more minutes.
-
-<div style="page-break-after: always; visibility: hidden"></div>

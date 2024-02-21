@@ -1,9 +1,17 @@
 # Soups
 
+-----
+
+* [Sopa de Camarón](#SopaDeCamaron)
+* [Sopa de Frijol](#SopaDeFrijol)
+* [Crema de Chile Poblano](#CremaDeChilePoblano)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Sopa de Camarón"></a> Sopa de Camarón
+## <a id="SopaDeCamaron" name="Sopa de Camarón"></a> Sopa de Camarón
 
 ### Ingredients
 
@@ -41,11 +49,12 @@
 
 1. Serve and add habanero sauce and lime juice to taste.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Sopa de Frijol"></a> Sopa de Frijol
+## <a id="SopaDeFrijol" name="Sopa de Frijol"></a> Sopa de Frijol
 
 ### Ingredients
 
@@ -75,11 +84,12 @@
 
 1. Serve in a bowl. Garnish with a dollop of cream, chopped cilantro and tortilla strips.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Crema de Chile Poblano"></a> Crema de Chile Poblano
+## <a id="CremaDeChilePoblano" name="Crema de Chile Poblano"></a> Crema de Chile Poblano
 
 ### Ingredients
 

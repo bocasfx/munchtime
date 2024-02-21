@@ -1,9 +1,19 @@
 # Veggies
 
+-----
+
+* [Chiles Jalapeños en Vinagre](#ChilesJalapenosEnVinagre)
+* [Xec](#Xec)
+* [Ensalada de Ejotes y Nopales](#EnsaladaDeEjotesYNopales)
+* [Chipotles en Escabeche](#ChipotlesEnEscabeche)
+* [Veggie Fritters](#VeggieFritters)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chiles Jalapeños en Vinagre"></a> Chiles Jalapeños en Vinagre
+## <a id="ChilesJalapenosEnVinagre" name="Chiles Jalapeños en Vinagre"></a> Chiles Jalapeños en Vinagre
 
 ### Ingredients
 
@@ -34,11 +44,12 @@
 
 1. They can be consumed once they've cooled down but they taste much better after a few days.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Xec"></a> Xec
+## <a id="Xec" name="Xec"></a> Xec
 
 ### Ingredients
 
@@ -62,11 +73,12 @@
 
 1. Serve on a plate and garnish with cilantro and piquín pepper powder.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Ensalada de Ejotes y Nopales"></a> Ensalada de Ejotes y Nopales
+## <a id="EnsaladaDeEjotesYNopales" name="Ensalada de Ejotes y Nopales"></a> Ensalada de Ejotes y Nopales
 
 ### Ingredients
 
@@ -84,11 +96,12 @@
 
 1. Mix all the ingredients.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Chipotles en Escabeche"></a> Chipotles en Escabeche
+## <a id="ChipotlesEnEscabeche" name="Chipotles en Escabeche"></a> Chipotles en Escabeche
 
 ### Ingredients
 
@@ -118,11 +131,12 @@
 
 1. Let it simmer for a minute or two and then turn off the heat.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Veggie Fritters"></a> Veggie Fritters
+## <a id="VeggieFritters" name="Veggie Fritters"></a> Veggie Fritters
 
 ### Ingredients
 
@@ -146,5 +160,3 @@
 1. With a spatula incorporate the grated beet and grated cauliflower. Add salt to taste.
 
 1. Use a tablespoon to form the fritters and fry them in small batches in enough oil so they can float.
-
-<div style="page-break-after: always; visibility: hidden"></div>

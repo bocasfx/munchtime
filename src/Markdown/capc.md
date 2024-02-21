@@ -1,22 +1,25 @@
 # Como Agua Para Chocolate
 
-### * [Tortas de Navidad](#TortasDeNavidad)
-### * [Pastel Chabela](#PastelChabela)
-### * [Codornices en pétalos de rosas](#CodornicesEnPetalosDeRosas)
-### * [Mole de Guajolote con almendra y ajonjoli](#MoleDeGuajoloteConAlmendraYAjonjoli)
-### * [Chorizo Norteño](#ChorizoNorteño)
-### * [Caldo de Colita de Res](#CaldoDeColitaDeRes)
-### * [Chocolate y Rosca de Pascuas](#ChocolateYRoscaDePascuas)
-### * [Champandongo](#Champandongo)
-### * [Torrejas de natas](#TorrejasDeNatas)
-### * [Frijoles Gordos con chile a la Tezcucana](#FrijolesGordosConChileALaTezcucana)
-### * [Sorbete de Jazmin](#SorbeteDeJazmin)
-### * [Chiles en nogada](#ChilesEnNogada)
+-----
 
+* [Tortas de Navidad](#TortasDeNavidad)
+* [Pastel Chabela](#PastelChabela)
+* [Codornices en pétalos de rosas](#CodornicesEnPetalosDeRosas)
+* [Mole de Guajolote con almendra y ajonjoli](#MoleDeGuajoloteConAlmendraYAjonjoli)
+* [Chorizo Norteño](#ChorizoNorteño)
+* [Caldo de Colita de Res](#CaldoDeColitaDeRes)
+* [Chocolate y Rosca de Pascuas](#ChocolateYRoscaDePascuas)
+* [Champandongo](#Champandongo)
+* [Torrejas de natas](#TorrejasDeNatas)
+* [Frijoles Gordos con chile a la Tezcucana](#FrijolesGordosConChileALaTezcucana)
+* [Sorbete de Jazmin](#SorbeteDeJazmin)
+* [Chiles en nogada](#ChilesEnNogada)
+
+-----
 
 <div id="TortasDeNavidad" style="page-break-after: always; visibility: hidden"></div>
 
-# Tortas de Navidad
+## Tortas de Navidad
 Se preparan en estas fechas o para celebrar un cumpleaños decembrino.
 
 ### Ingredientes
@@ -42,9 +45,11 @@ Se preparan en estas fechas o para celebrar un cumpleaños decembrino.
 
 1. Después de rellenarlas se meten 10 minutos al horno y se sirven calientes. Lo ideal es dejarlas al sereno toda una noche envueltas en una tela, para que el pan se impregne con la grasa del chorizo.
 
+-----
+
 <div id="PastelChabela" style="page-break-after: always; visibility: hidden"></div>
 
-# Pastel Chabela
+## Pastel Chabela
 Puede provocar nostalgia de amores pasados. 
 
 ### Ingredientes
@@ -97,9 +102,11 @@ para 18 personas
 
 1. Se hace con diez claras de huevo y quinientos gramos de azúcar batidos a punto de hebra fuerte. Cubrir el resto del pastel con él.
 
+-----
+
 <div id="CodornicesEnPetalosDeRosas" style="page-break-after: always; visibility: hidden"></div>
 
-# Codornices en pétalos de rosas
+## Codornices en pétalos de rosas
 Receta prehispánica que provoca a los instintos más ocultos.
 
 ### Ingredientes
@@ -131,10 +138,11 @@ Por separado las castañas se ponen a dorar en el comal, se descascaran y se cue
 
 1. Para la decoración, éstas se ponen en un platón, se les vacía la salsa encima y se decoran con una rosa completa en el centro y los pétalos a los lados, o se pueden servir de una vez en un plato individual en lugar de utilizar el platón.
 
+-----
 
 <div id="MoleDeGuajoloteConAlmendraYAjonjoli" style="page-break-after: always; visibility: hidden"></div>
 
-# Mole de Guajolote con almendra y ajonjoli
+## Mole de Guajolote con almendra y ajonjoli
 Perfecto para dar una fiesta inolvidable.
 
 ### Ingredientes
@@ -170,10 +178,11 @@ Perfecto para dar una fiesta inolvidable.
 
 1. Cuando ya se tienen todos los ingredientes molidos tal y como se indicó, se mezclan en una olla, se le añaden las piezas del guajolote, las tablillas de chocolate y azúcar al gusto. En cuanto espesa, se retira del fuego.
 
+-----
 
 <div id="ChorizoNorteño" style="page-break-after: always; visibility: hidden"></div>
 
-# Chorizo Norteño
+## Chorizo Norteño
 El sabor ideal para la locura.
 
 ### Ingredientes
@@ -195,10 +204,11 @@ El sabor ideal para la locura.
 
 1. Las tripas que van a rellenarse tienen que ser de res, limpias y curadas. Para rellenarlas se utiliza un embudo. Se atan muy bien a distancias de cuatro dedos y se pican con una aguja para que salga el aire, que es lo que puede perjudicar el chorizo. Es muy importante comprimirlo muy bien mientras se rellena, para que no quede ningún espacio.
 
+-----
 
 <div id="CaldoDeColitaDeRes" style="page-break-after: always; visibility: hidden"></div>
 
-# Caldo de Colita de Res
+## Caldo de Colita de Res
 El caldo que cura todos los males. Se recomienda tener pañuelos desechables a la mano.
 
 ### Ingredientes
@@ -218,10 +228,11 @@ El caldo que cura todos los males. Se recomienda tener pañuelos desechables a l
 1. La cebolla y el ajo se pican finamente y se ponen a freír en un poco de aceite; una vez que se acitronan se les incorporan las papas, los ejotes y el jitomate picado hasta que se sazonen.
 Una vez sazonado con las papas y los ejotes, se vacía el caldillo en la olla en donde se han puesto a cocer las colitas de res. Ya que se vacía, sólo hay que dejar hervir por media hora todos los ingredientes juntos. En seguida se retira del fuego y se sirve bien caliente.
 
+-----
 
 <div id="ChocolateYRoscaDePascuas" style="page-break-after: always; visibility: hidden"></div>
 
-# Chocolate y Rosca de Pascuas
+## Chocolate y Rosca de Pascuas
 Nada como estar en casa para calmar la nostalgia de un buen chocolate caliente y una rosca de reyes. 
 
 ### Ingredientes
@@ -276,10 +287,12 @@ Nada como estar en casa para calmar la nostalgia de un buen chocolate caliente y
 
 1. Cuando la masa dobla su tamaño por tercera vez, se decora con las frutas cubiertas, se barniza con huevo batido y se le pone el azúcar. Se mete al horno por veinte minutos y después se deja enfriar. 
 
+-----
+
 <div id="Champandongo" style="page-break-after: always; visibility: hidden"></div>
 
 
-# Champandongo
+## Champandongo
 Su finura asegura afianzar compromisos y consumar viejos amores.
 
 ### Ingredientes
@@ -309,10 +322,12 @@ Su finura asegura afianzar compromisos y consumar viejos amores.
 
 (*) El champandongo es un platillo de un sabor tan refinado que ningún temperamento puede ponerse a su altura y alterarle el gusto.
 
+-----
+
 <div id="TorrejasDeNatas" style="page-break-after: always; visibility: hidden"></div>
 
 
-# Torrejas de natas
+## Torrejas de natas
 Reaviva los cálidos recuerdos de la niñez
 
 ### Ingredientes
@@ -342,10 +357,12 @@ Reaviva los cálidos recuerdos de la niñez
 
 (*) Para conocer si el almíbar está en este punto se remojan los dedos en un cubilete o jarro de agua fría y se coje el almíbar, volviéndose a meter con prontitud en el agua. Si al enfriarse el almíbar se hace bola y se maneja como pasta, está cocido al grado de punto de bola.
 
+-----
+
 <div id="FrijolesGordosConChileALaTezcucana" style="page-break-after: always; visibility: hidden"></div>
 
 
-# Frijoles Gordos con chile a la Tezcucana
+## Frijoles Gordos con chile a la Tezcucana
 Si los frijoles tardan en cocerse hay que procurar tener pensamientos que vengan del corazón.
 
 ### Ingredientes
@@ -372,10 +389,12 @@ Si los frijoles tardan en cocerse hay que procurar tener pensamientos que vengan
 
 1. Al servirse se les pone queso rallado y se adornan con hojas tiernas de lechuga, rebanadas de aguacate, rabanitos picados, chiles tornachiles y aceitunas.
 
+-----
+
 <div id="SorbeteDeJazmin" style="page-break-after: always; visibility: hidden"></div>
 
 
-# Sorbete de Jazmin
+## Sorbete de Jazmin
 Algo dulce para alegrar los corazones rotos.
 
 ### Ingredientes
@@ -390,10 +409,12 @@ Algo dulce para alegrar los corazones rotos.
 
 1. Estando bien disuelto el azúcar se cuela la mezcla por un lienzo tupido y después se poner a helar en la sorbetera.
 
+-----
+
 <div id="ChilesEnNogada" style="page-break-after: always; visibility: hidden"></div>
 
 
-# Chiles en nogada
+## Chiles en nogada
 Si se prepara correctamente puede encender el alma de quien sea que lo coma.
 
 ### Ingredientes

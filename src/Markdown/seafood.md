@@ -1,9 +1,15 @@
 # Seafood
 
+-----
+
+* [Tuna and Plantain Patties](#TunaAndPlantainPatties)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Tuna and Plantain Patties"></a> Tuna and Plantain Patties
+## <a id="TunaAndPlantainPatties" name="Tuna and Plantain Patties"></a> Tuna and Plantain Patties
 
 ### Ingredients
 
@@ -28,6 +34,3 @@
 1. Mash the plantains and put them in a bowl with the rest of the ingredients.
 
 1. Mix well and form patties. Fry them with olive oil over medium low heat.
-
-
-<div style="page-break-after: always; visibility: hidden"></div>

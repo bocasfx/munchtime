@@ -1,9 +1,23 @@
 # Salsas
 
+-----
+
+* [Salsa Campechana](#SalsaCampechana)
+* [Salsa de Cilantro](#SalsaDeCilantro)
+* [Salsa Macha](#SalsaMacha)
+* [Salsa Macha 2](#SalsaMacha2)
+* [Spaghetti Sauce](#SpaghettiSauce)
+* [Pizza Sauce](#PizzaSauce)
+* [Tahini Sauce with Garlic and Lemon](#TahiniSauceWithGarlicAndLemon)
+* [Sesame sauce](#SesameSauce)
+* [Thai Vinaigrette](#ThaiVinaigrette)
+
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Salsa Campechana"></a> Salsa Campechana
+## <a id="SalsaCampechana" name="Salsa Campechana"></a> Salsa Campechana
 
 ### Ingredients
 
@@ -22,11 +36,12 @@
 
 1. Put the garlic, chiles, orange juice and vinegar in a blender. Blend until smooth. Add water if necessary to obtain the desired consistency. Add salt to taste.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Salsa de Cilantro"></a> Salsa de Cilantro
+## <a id="SalsaDeCilantro" name="Salsa de Cilantro"></a> Salsa de Cilantro
 
 ### Ingredients
 
@@ -44,11 +59,12 @@
 
 1. Add the lime juice and salt to taste.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Salsa Macha"></a> Salsa Macha
+## <a id="SalsaMacha" name="Salsa Macha"></a> Salsa Macha
 
 ### Ingredients
 
@@ -67,11 +83,12 @@
 
 1. Pour everything in a bowl and let it cool down. Grind them in a food processor or in a molcajete (mortar and pestle). Add salt to taste.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Salsa Macha 2"></a> Salsa Macha 2
+## <a id="SalsaMacha2" name="Salsa Macha 2"></a> Salsa Macha 2
 
 ### Ingredientes
 
@@ -90,10 +107,12 @@
 
 1. Vacía todo en un recipiente de vidrio o metal y deja que se enfríe. Una vez que se haya enfriado pon todo en la licuadora y muélelo hasta que obtengas la consistencia deseada. Si es necesario agrega más aceite.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Spaghetti Sauce"></a> Spaghetti Sauce
+## <a id="SpaghettiSauce" name="Spaghetti Sauce"></a> Spaghetti Sauce
 
 ### Ingredients
 
@@ -124,11 +143,12 @@
 
 1. Cook the mushrooms for a few more minutes then pour the sauce over them and keep cooking until the sauce has the right consistency and taste.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Pizza Sauce"></a> Pizza Sauce
+## <a id="PizzaSauce" name="Pizza Sauce"></a> Pizza Sauce
 
 ### Ingredients
 
@@ -150,11 +170,12 @@
 
 1. Add a tiny bit of water if necessary.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
 
-## <a name="Tahini Sauce with Garlic and Lemon"></a> Tahini Sauce with Garlic and Lemon
+## <a id="TahiniSauceWithGarlicAndLemon" name="Tahini Sauce with Garlic and Lemon"></a> Tahini Sauce with Garlic and Lemon
 
 ### Ingredients
 
@@ -171,10 +192,11 @@
 
 1. Add cumin and tahini paste to lemon/garlic juice and whisk to combine. The mixture will seize up and turn pasty. Add water a few tablespoons at a time, whisking in between each addition, until a smooth, light sauce is formed. The tahini sauce should very slowly lose its shape if you let ribbons of it drop from the whisk into the bowl. Season to taste with salt. Refrigerate for up to 1 1/2 weeks.
 
+-----
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Sesame sauce"></a> Sesame sauce
+## <a id="SesameSauce" name="Sesame sauce"></a> Sesame sauce
 
 ### Ingredients
 
@@ -194,9 +216,11 @@
 1. Combine all the other ingredients, then add the water/cornstarch mixture.
 1. Bring to a simmer stirring constantly.
 
+-----
+
 <div style="page-break-after: always; visibility: hidden"></div>
 
-## <a name="Thai Vinaigrette"></a> Thai Vinaigrette
+## <a id="ThaiVinaigrette" name="Thai Vinaigrette"></a> Thai Vinaigrette
 
 ### Ingredients
 
@@ -208,5 +232,3 @@
 * 1/4 Cup Cilantro, chopped
 * 1 tsp Toasted sesame seeds
 * 1 tsp Sesame oil
-
-<div style="page-break-after: always; visibility: hidden"></div>
