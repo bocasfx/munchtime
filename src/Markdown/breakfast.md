@@ -7,6 +7,9 @@
 * [Granola](#Granola)
 * [Buttermilk Pancakes](#ButtermilkPancakes)
 * [Old fashioned pancakes](#OldFashionedPancakes)
+* [Oat muffins Base](#OatMuffinsBase)
+* [Chocolate Chip Oat muffins](#ChocolateChipOatMuffins)
+* [PB & J Oat muffins](#PBJOatMuffins)
 
 -----
 
@@ -135,6 +138,8 @@
 
 ## <a id="OldFashionedPancakes" name="Old-fashioned Pancakes"></a> Old-Fashioned Pancakes
 
+### Ingredients
+
 * 1 1/2 cups all-purpose flour
 * 3 1/2 teaspoons baking powder
 * 1 teaspoon salt
@@ -148,3 +153,61 @@
 1. In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
 
 1. Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
+
+
+-----
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a id="OatMuffinsBase" name="Oat Muffins Base"></a> Oat Muffins
+
+### Ingredients
+
+* 1 cup rolled oats
+* 2 large eggs
+* 1/2 cup soy milk
+* 1 Tbsp maple syrup
+* 1 tsp vanilla extract
+* 2 tsp baking powder
+
+### Preparation
+
+1. Blend all the ingredients.
+1. Bake at 350F for ~15 mins.
+
+-----
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a id="ChocolateChipOatMuffins" name="Chocolate Chip Oat Muffins"></a> Chocolate Chip Oat Muffins
+
+### Ingredients
+
+* Oat muffins base recipe
+* 1 Tbsp cocoa powder
+* 1/2 cup semi-sweet chocolate chips
+
+### Preparation
+
+1. Add the cocoa powder to the batter and mix until well integrated.
+1. Add the chocolate chips.
+
+-----
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
+
+## <a id="PBJOatMuffins" name="PB & J Oat Muffins"></a> PB & J Oat Muffins
+
+### Ingredients
+
+* Oat muffins base recipe
+* Peanut butter
+* Strawberry jam
+
+### Preparation
+
+1. Fill the cupcake molds half-way. Add a tsp of strawberry jam and a drizzle of peanut butter.
+1. Add more batter to fill the molds all the way to the rim.
