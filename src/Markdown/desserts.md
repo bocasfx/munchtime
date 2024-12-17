@@ -205,75 +205,29 @@
 
 ### Ingredients
 
-* 500 gr Flour
-* 4 C Water
-* 40 gr Butter
+* 500 gr All purpose flour
+* 1 L Water
+* 3 Tbsp Sugar
 * 1/2 tsp Salt
-* 4 C Vegetable oil (for frying)
-* Granulated sugar
+* 1 L Oil
 
 ### Preparation
 
-1. Put the water, butter and salt in a pot and bring to a boil.
+1. Put 700 ml of water in a pot and bring to a boil. Add the sugar and salt.
 
-1. Lower the heat. Add the flour and stir constantly with a wooden spatula until you get a smooth, consistent paste.
+1. Bring the heat down and add all the flour. Stir until the flour and the water form a dough. Keep stirring in order to help develop the gluten.
 
-1. Remove from heat and let the paste cool down. Keep stirring.
+1. Little by little add water and keep stirring until the dough becomes slightly sticky.
 
-1. Heat the oil in a pot over high heat. Once the oil is hot reduce the heat to medium-low.
+1. Let the dough cool down for 10 minutes and put it in a piping bag.
 
-1. Fill a pastry bag with the paste and form the churros, about 20 cm long, over the oil.
+1. Put the oil in a large pot and heat it up. Make sure the oil is very hot.
 
-1. Cook them for a couple of minutes and then turn them so they brown on all sides.
+1. Use the piping bag to form the churros over the oil. Use scissors to cut the churros to the desired lenght. Make sure to dip the scissors in the oil so the dough doesn't stick.
 
-1. Once the churros are cooked remove them from the oil and place them on a paper towel to absorb the excess oil.
+1. Cook the churros until they are golden brown.
 
-1. Put the sugar on a plate and cover the churros on all sides.
-
-1. Enjoy with a cup of hot chocolate or champurrado.
-
------
-
-<div style="page-break-after: always; visibility: hidden"></div>
-
-## <a id="Churros2" name="Churros 2"></a> Churros 2
-
-### Ingredients
-
-* 90g Unsalted butter
-* 20g Dark brown sugar
-* 1g Salt
-* 350g Water
-* 180g All-purpose flour
-* 150g Egg (3 eggs)
-* 3g Vanilla extract
-* Sugar + Cinnamon powder
-
-### Preparation
-
-1. Put the water, butter and salt in a pot and bring to a boil.
-
-1. Lower the heat. Add the flour and stir constantly with a wooden spatula until you get a smooth, consistent paste.
-
-1. Remove from heat and let the paste cool down. Keep stirring.
-
-1. Whisk the eggs and add them to the dough in small batches. Combine until thoroughly mixed.
-
-1. Heat the oil in a pot over high heat. Once the oil is hot reduce the heat to medium-low.
-
-1. Fill a pastry bag with the paste and form the churros, about 20 cm long, over the oil.
-
-1. Cook them for a couple of minutes and then turn them so they brown on all sides.
-
-1. Once the churros are cooked remove them from the oil and place them on a paper towel to absorb the excess oil.
-
-1. Put the sugar and cinnamon mix on a plate and cover the churros on all sides.
-
-1. Enjoy with a cup of hot chocolate or champurrado.
-
-### Notes
-
-They are very good but also too soft. Almost like a doughnut, probably because of the addition of eggs.
+1. Once they're done let them cool for a few minutes and cover them with sugar and cinnamon.
 
 -----
 
