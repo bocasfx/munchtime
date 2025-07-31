@@ -12,6 +12,35 @@
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
+## <a id="FriedTofu" name="Fried Tofu"></a> Fried Tofu
+
+### Ingredients
+
+* 1 pack of extra firm tofu
+* 1/4 C Soy sauce
+* 1 Tbsp Sesame oil
+* The juice of 1/2 lime
+* Onion powder
+* Garlic powder
+* Furikake
+* Cornstarch
+
+### Preparation
+
+1. Cut the tofu in small cubes and add onion powder and garlic powder to taste.
+
+1. In a bowl mix the soy sauce, sesame oil and lime juice
+
+1. Add the tofu cubes to the bowl and mix. Transfer everything into a ziploc bag and marinate for at least 2 hours.
+
+1. Drain the tofu cubes and put them in a bowl. Working in batches sprinkle some furikake to taste and add enough cornstarch to coat them.
+
+1. Fry them in a pan at medium high heat with enough oil to cover the cubes at least half-way.
+
+-----
+
+<div style="page-break-after: always; visibility: hidden"></div>
+
 
 ## <a id="ChilesJalapenosEnVinagre" name="Chiles Jalapeños en Vinagre"></a> Chiles Jalapeños en Vinagre
 
