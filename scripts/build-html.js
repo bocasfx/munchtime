@@ -10,6 +10,7 @@ const sections = [
   "capc",
   "desserts",
   "grains",
+  "menu",
   "pork",
   "poultry",
   "salsas",
@@ -21,14 +22,14 @@ const sections = [
 const templatePath = path.join(__dirname, `../src/html/template.html`);
 const template = fs.readFileSync(templatePath, { encoding: "utf8", flag: "r" });
 
-const stylesPathSource = path.join(__dirname, '../src/html/styles.css');
-const stylesPathDest = path.join(__dirname, '../public/styles.css');
+const stylesPathSource = path.join(__dirname, "../src/html/styles.css");
+const stylesPathDest = path.join(__dirname, "../public/styles.css");
 
 fs.copyFileSync(stylesPathSource, stylesPathDest);
 
 sections.forEach((section) => md2html(section, template));
 
-const tocSource = path.join(__dirname, '../src/html/toc.html');
-const tocDest = path.join(__dirname, '../public/index.html');
+const tocSource = path.join(__dirname, "../src/html/toc.html");
+const tocDest = path.join(__dirname, "../public/index.html");
 
-applyTemplate(tocSource, tocDest, template)
+applyTemplate(tocSource, tocDest, template);

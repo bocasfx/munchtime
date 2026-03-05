@@ -1,16 +1,38 @@
 # Grains
 
------
+---
 
-* [Lentils and Rice](#LentilsAndRice)
-* [Arroz Blanco con Plátanos Fritos](#ArrozBlancoConPlatanosFritos)
-* [Wheat Berries and Kale](#WheatBerriesAndKale)
-* [Arroz Rojo](#ArrozRojo)
+- [Lentils and Rice](#LentilsAndRice)
+- [Arroz Blanco con Plátanos Fritos](#ArrozBlancoConPlatanosFritos)
+- [Wheat Berries and Kale](#WheatBerriesAndKale)
+- [Arroz Rojo](#ArrozRojo)
 
------
+---
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
+## <a id="SteamedRice" name="Steamed Rice"></a> Steamed Rice
+
+### Ingredients
+
+1 C Sticky rice
+Water
+
+### Preparation
+
+1. Rinse rice thoroughly.
+
+1. Simmer rice for 3 minutes.
+
+1. Steam rice in a wet kitchen cloth for 15 minutes.
+
+1. Remove from heat and leave covered for 5 minutes.
+
+1. Fluff.
+
+---
+
+<div style="page-break-after: always; visibility: hidden"></div>
 
 ## <a id="LentilsAndRice" name="Lentils and Rice"></a> Lentils and Rice
 
@@ -41,21 +63,20 @@ Salt
 
 1. Serve with labneh and pita bread.
 
------
+---
 
 <div style="page-break-after: always; visibility: hidden"></div>
-
 
 ## <a id="ArrozBlancoConPlatanosFritos" name="Arroz Blanco con Plátanos Fritos"></a> Arroz Blanco con Plátanos Fritos
 
 ### Ingredients
 
-* 1 C Basmati rice, unwashed
-* 1 Garlic clove, sliced
-* 2 C Hot water
-* 3/4 tsp Salt
-* 2 Plantains, ripe
-* Olive oil
+- 1 C Basmati rice, unwashed
+- 1 Garlic clove, sliced
+- 2 C Hot water
+- 3/4 tsp Salt
+- 2 Plantains, ripe
+- Olive oil
 
 ### Preparation
 
@@ -81,26 +102,25 @@ Salt
 
 1. Serve the plantains on top of the rice.
 
------
+---
 
 <div style="page-break-after: always; visibility: hidden"></div>
-
 
 ## <a id="WheatBerriesAndKale" name="Wheat Berries and Kale"></a> Wheat Berries and Kale
 
 ### Ingredients
 
-* 1 C Wheat berries
-* 2 Carrots, diced
-* 2 C Kale, chopped
-* 1/4 Onion, diced
-* 1 Garlic clove, minced
-* 1/2 C Parsley, chopped
-* 1/2 Lime, the juice
-* Feta cheese
-* 2 C Broccoli
-* Olive oil
-* Salt
+- 1 C Wheat berries
+- 2 Carrots, diced
+- 2 C Kale, chopped
+- 1/4 Onion, diced
+- 1 Garlic clove, minced
+- 1/2 C Parsley, chopped
+- 1/2 Lime, the juice
+- Feta cheese
+- 2 C Broccoli
+- Olive oil
+- Salt
 
 ### Preparation
 
@@ -120,7 +140,7 @@ Salt
 
 Serve with crumbled feta cheese on top.
 
------
+---
 
 <div style="page-break-after: always; visibility: hidden"></div>
 
@@ -128,15 +148,14 @@ Serve with crumbled feta cheese on top.
 
 ### Ingredients
 
-* 1 C Morelos rice
-* 3 Roma tomatos
-* 1 Clove of garlic
-* 1 Medium carrot
-* 1/2 C Peas
-* 1/8 Onion
-* 1 Tbsp Lard (substitute with oil)
-* Salt
-
+- 1 C Morelos rice
+- 3 Roma tomatos
+- 1 Clove of garlic
+- 1 Medium carrot
+- 1/2 C Peas
+- 1/8 Onion
+- 1 Tbsp Lard (substitute with oil)
+- Salt
 
 ### Preparation
 

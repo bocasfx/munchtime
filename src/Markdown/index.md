@@ -12,3 +12,4 @@
 #include "src/salsas.md"
 #include "src/soups.md"
 #include "src/capc.md"
+#include "src/menu.md"
