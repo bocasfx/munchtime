@@ -2,6 +2,7 @@
 
 ---
 
+- [Steamed Rice](#SteamedRice)
 - [Lentils and Rice](#LentilsAndRice)
 - [Arroz Blanco con Plátanos Fritos](#ArrozBlancoConPlatanosFritos)
 - [Wheat Berries and Kale](#WheatBerriesAndKale)
